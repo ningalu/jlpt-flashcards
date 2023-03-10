@@ -32,6 +32,8 @@ def get_jlpt_resources():
             pdf_res = requests.get(u)
             with open(pdf_dir + name, "wb") as pdf_out:
                 pdf_out.write(pdf_res.content)
+        else:
+            print("Skipping {0}".format(name))
 
 
 if (__name__ == "__main__"):
