@@ -17,35 +17,35 @@ export const KanjiLevels = [
     level: Level.N1,
     content: evenPartition(
       KanjiN1Json as Array<CardData>,
-      KanjiN1Json.length / 40
+      Math.round(KanjiN1Json.length / 60)
     ),
   },
   {
     level: Level.N2,
     content: evenPartition(
       KanjiN2Json as Array<CardData>,
-      KanjiN2Json.length / 40
+      Math.round(KanjiN2Json.length / 40)
     ),
   },
   {
     level: Level.N3,
     content: evenPartition(
       KanjiN3Json as Array<CardData>,
-      KanjiN3Json.length / 40
+      Math.round(KanjiN3Json.length / 40)
     ),
   },
   {
     level: Level.N4,
     content: evenPartition(
       KanjiN4Json as Array<CardData>,
-      KanjiN4Json.length / 40
+      Math.round(KanjiN4Json.length / 30)
     ),
   },
   {
     level: Level.N5,
     content: evenPartition(
       KanjiN5Json as Array<CardData>,
-      KanjiN5Json.length / 40
+      Math.round(KanjiN5Json.length / 20)
     ),
   },
 ];

@@ -32,6 +32,13 @@ export const evenPartition = <T>(a: Array<T>, n: number): Array<Array<T>> => {
     return out;
   }
 
+  if (s === 1) {
+    return [
+      a.slice(0, Math.floor(a.length / 2)),
+      a.slice(Math.ceil(a.length / 2), a.length),
+    ];
+  }
+
   // balanced split is possible by default
   if (l % n === 0) {
     for (let i = 0; i < l; i += s) {
