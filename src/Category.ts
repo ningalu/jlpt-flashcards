@@ -1,5 +1,5 @@
 export enum Category {
-    Kana,
-    Kanji,
-    Vocab
+  Kana = "Kana",
+  Kanji = "Kanji",
+  Vocab = "Vocab",
 }
