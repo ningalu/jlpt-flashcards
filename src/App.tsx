@@ -2,25 +2,13 @@ import { useState } from "react";
 import "./App.css";
 import { Category } from "./Category";
 import { Level } from "./Level";
-import { compareShallow, evenPartition } from "./util";
-import HiraganaJson from "./assets/json/Hiragana List.json";
-import KatakanaJson from "./assets/json/Katakana List.json";
-import KanjiN1Json from "./assets/json/KanjiList_N1_Formatted.json";
-import KanjiN2Json from "./assets/json/KanjiList_N2_Formatted.json";
-import KanjiN3Json from "./assets/json/KanjiList_N3_Formatted.json";
-import KanjiN4Json from "./assets/json/KanjiList_N4_Formatted.json";
-import KanjiN5Json from "./assets/json/KanjiList_N5_Formatted.json";
-import { CardData } from "./CardData";
+import { compareShallow } from "./util";
+
 import Modal from "react-modal";
 import { Group } from "./Group";
 
-const HiraganaGroups = HiraganaJson as Array<Array<CardData>>;
-const KatakanaGroups = KatakanaJson as Array<Array<CardData>>;
-
-const KanaLevels = [
-  { name: "Hiragana", content: HiraganaGroups },
-  { name: "Katakana", content: KatakanaGroups },
-];
+import { KanjiLevels, KanaLevels } from "./StaticData";
+import GroupSelector from "./GroupSelector";
 
 const modalStyle = {
   content: {
@@ -28,11 +16,6 @@ const modalStyle = {
     margin: "auto",
   },
 };
-
-console.log(evenPartition([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 3));
-console.log(evenPartition([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], 2));
-console.log(evenPartition([0, 1, 2], 3));
-console.log(evenPartition([0, 1, 2], 4));
 
 function App() {
   const [level, setlevel] = useState(Level.Hiragana);
@@ -49,14 +32,7 @@ function App() {
 
   return (
     <div className="w-full border-b-2 h-14 flex">
-      <span className="p-2 pr-0 pl-8 self-center">
-        JLPT{" "}
-        {/* {groups
-          .map(({ category, level, number }) => {
-            return `${category} ${level} ${number}`;
-          })
-          .join(", ")} */}
-      </span>
+      <span className="p-2 pr-0 pl-8 self-center">JLPT </span>
       <button
         onClick={() => {
           setCardSelect(true);
@@ -101,66 +77,20 @@ function App() {
           })}
         </div>
         {chooseCategory === Category.Kana && (
-          <table className="table-fixed">
-            <thead>
-              <tr className="text-gray-400">
-                <td className=" w-24">Group</td>
-                {[...KanaLevels]
-                  .sort((a, b) => {
-                    return a.content.length < b.content.length
-                      ? 1
-                      : a.content.length > b.content.length
-                      ? -1
-                      : 0;
-                  })[0]
-                  .content.map((_, i) => {
-                    return <td className="w-12">{i + 1}</td>;
-                  })}
-              </tr>
-            </thead>
-            <tbody>
-              {KanaLevels.map(({ name, content }, i) => {
-                return (
-                  <tr key={i}>
-                    <td>{name}</td>
-                    {content.map((value, i) => (
-                      <td key={i}>
-                        <input
-                          type="checkbox"
-                          id={`${name} ${i}`}
-                          checked={groups.reduce(
-                            (acc, curr) =>
-                              acc ||
-                              compareShallow(curr, {
-                                category: Category.Kana,
-                                level: name as Level,
-                                number: i + 1,
-                              }),
-                            false
-                          )}
-                          onChange={(event) => {
-                            console.log(value, i);
-                            let selected = {
-                              category: Category.Kana,
-                              level: name as Level,
-                              number: i + 1,
-                            };
-                            event.target.checked
-                              ? setGroups([...groups, selected])
-                              : setGroups(
-                                  [...groups].filter((v) => {
-                                    return !compareShallow(v, selected);
-                                  })
-                                );
-                          }}
-                        />
-                      </td>
-                    ))}
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+          <GroupSelector
+            category={Category.Kana}
+            levels={KanaLevels}
+            groups={groups}
+            setGroups={setGroups}
+          />
+        )}
+        {chooseCategory === Category.Kanji && (
+          <GroupSelector
+            category={Category.Kanji}
+            levels={KanjiLevels}
+            groups={groups}
+            setGroups={setGroups}
+          />
         )}
       </Modal>
     </div>

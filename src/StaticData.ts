@@ -15,35 +15,35 @@ const KatakanaGroups = KatakanaJson as Array<Array<CardData>>;
 export const KanjiLevels = [
   {
     level: Level.N1,
-    groups: evenPartition(
+    content: evenPartition(
       KanjiN1Json as Array<CardData>,
       KanjiN1Json.length / 40
     ),
   },
   {
-    level: Level.N1,
-    groups: evenPartition(
+    level: Level.N2,
+    content: evenPartition(
       KanjiN2Json as Array<CardData>,
       KanjiN2Json.length / 40
     ),
   },
   {
-    level: Level.N1,
-    groups: evenPartition(
+    level: Level.N3,
+    content: evenPartition(
       KanjiN3Json as Array<CardData>,
       KanjiN3Json.length / 40
     ),
   },
   {
-    level: Level.N1,
-    groups: evenPartition(
+    level: Level.N4,
+    content: evenPartition(
       KanjiN4Json as Array<CardData>,
       KanjiN4Json.length / 40
     ),
   },
   {
-    level: Level.N1,
-    groups: evenPartition(
+    level: Level.N5,
+    content: evenPartition(
       KanjiN5Json as Array<CardData>,
       KanjiN5Json.length / 40
     ),
@@ -51,6 +51,6 @@ export const KanjiLevels = [
 ];
 
 export const KanaLevels = [
-  { name: Level.Hiragana, content: HiraganaGroups },
-  { name: Level.Katakana, content: KatakanaGroups },
+  { level: Level.Hiragana, content: HiraganaGroups },
+  { level: Level.Katakana, content: KatakanaGroups },
 ];
