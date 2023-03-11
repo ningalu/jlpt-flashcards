@@ -7,7 +7,7 @@ import { compareShallow } from "./util";
 import Modal from "react-modal";
 import { Group } from "./Group";
 
-import { KanjiLevels, KanaLevels } from "./StaticData";
+import { KanjiLevels, KanaLevels, VocabLevels } from "./StaticData";
 import GroupSelector from "./GroupSelector";
 
 const modalStyle = {
@@ -88,6 +88,14 @@ function App() {
           <GroupSelector
             category={Category.Kanji}
             levels={KanjiLevels}
+            groups={groups}
+            setGroups={setGroups}
+          />
+        )}
+        {chooseCategory === Category.Vocab && (
+          <GroupSelector
+            category={Category.Vocab}
+            levels={VocabLevels}
             groups={groups}
             setGroups={setGroups}
           />
