@@ -1,1 +1,348 @@
-[{"kanji": "日", "onyomi": "ニチ ジツ", "kunyomi": "ひ -び", "english": "Japan sun, day,"}, {"kanji": "一", "onyomi": "イチ イツ ヒト.", "kunyomi": "ひと-", "english": "one"}, {"kanji": "国", "onyomi": "コク ク", "english": "country"}, {"kanji": "人", "onyomi": "ジン ニン", "kunyomi": "ひと -り", "english": "person"}, {"kanji": "年", "onyomi": "ネン ト", "english": "year"}, {"kanji": "大", "onyomi": "ダイ タイ -オオ.イ", "kunyomi": "おお- おお.きい", "english": "big large,"}, {"kanji": "十", "onyomi": "ジュウ ジッ ジュッ", "kunyomi": "とお", "english": "ten"}, {"kanji": "二", "onyomi": "ニ ジ フタタ.", "kunyomi": "ふた ふた.つ", "english": "two"}, {"kanji": "本", "onyomi": "ホン モ", "english": "real, for main, counter long true, book, things present,"}, {"kanji": "中", "onyomi": "チュウ アタ.", "kunyomi": "なか うち", "english": "middle, center mean, inside, in,"}, {"kanji": "長", "onyomi": "チョウ オ", "kunyomi": "なが.い", "english": "leader long,"}, {"kanji": "出", "onyomi": "シュツ スイ イ.ダ", "kunyomi": "で.る -で だ.す -だ.す い.でる", "english": "leave exit,"}, {"kanji": "三", "onyomi": "サン ゾウ ミッ.", "kunyomi": "み み.つ", "english": "three"}, {"kanji": "時", "onyomi": "ジ -ド", "kunyomi": "とき", "english": "time, hour"}, {"kanji": "行 見", "onyomi": "コウ ギョウ アン オコ.ナ ケン", "kunyomi": "い.く ゆ.く -ゆ.き -ゆき -い.き いき おこな.う み.る み.える み.せる", "english": "chances, at, idea, look visible hopes, -going, journey opinion, see,"}, {"kanji": "月", "onyomi": "ゲツ ガツ ツ", "english": "month, moon"}, {"kanji": "後", "onyomi": "ゴ コウ オク.レ", "kunyomi": "のち うし.ろ うしろ あと", "english": "later behind, back,"}, {"kanji": "前", "onyomi": "ゼン -マ", "kunyomi": "まえ", "english": "before in front,"}, {"kanji": "生", "onyomi": "セイ ショウ", "kunyomi": "い.きる い.かす い.ける う.まれる う.まれ うまれ う.む お.う は.える は.やす き なま なま- な.る", "english": "genuine, birth life,"}, {"kanji": "五", "onyomi": "ゴ イツ.", "kunyomi": "いつ", "english": "five"}, {"kanji": "間", "onyomi": "カン ケン", "kunyomi": "あいだ ま あい", "english": "interval, space"}, {"kanji": "上", "onyomi": "ジョウ ショウ シャン ヨ.", "kunyomi": "うえ -うえ うわ- かみ あ.げる -あ.げる あ.がる -あ.がる あ.がり -あ.がり のぼ.る のぼ.り のぼ.", "english": "up above,"}, {"kanji": "東", "onyomi": "トウ ヒガ", "english": "east"}, {"kanji": "四", "onyomi": "シ ヨ", "kunyomi": "よ よ.つ よっ.つ", "english": "four"}, {"kanji": "今", "onyomi": "コン キン イ", "english": "now"}, {"kanji": "金", "onyomi": "キン コン ゴン -ガ", "kunyomi": "かね かな-", "english": "gold"}, {"kanji": "九", "onyomi": "キュウ ク ココノ.", "kunyomi": "ここの", "english": "nine"}, {"kanji": "入", "onyomi": "ニュウ ジュ ハイ.", "kunyomi": "い.る -い.る -い.り い.れる -い.れ", "english": "enter, insert"}, {"kanji": "学", "onyomi": "ガク マナ.", "english": "learning, science study,"}, {"kanji": "高", "onyomi": "コウ タカ.メ", "kunyomi": "たか.い たか -だか たか.まる", "english": "tall, expensive high,"}, {"kanji": "円", "onyomi": "エン マロ.ヤ", "kunyomi": "まる.い まる まど まど.か", "english": "yen, circle, round"}, {"kanji": "子", "onyomi": "シ ス ツ", "kunyomi": "こ -こ", "english": "of first zodiac 11PM-1AM, the rat, sign child, Chinese"}, {"kanji": "外", "onyomi": "ガイ ゲ", "kunyomi": "そと ほか はず.す はず.れる と", "english": "outside"}, {"kanji": "八", "onyomi": "ハチ ヨ", "kunyomi": "や や.つ やっ.つ", "english": "eight"}, {"kanji": "六", "onyomi": "ロク リク ム", "kunyomi": "む む.つ むっ.つ", "english": "six"}, {"kanji": "下", "onyomi": "カ ゲ オ.リ", "kunyomi": "した しも もと さ.げる さ.がる くだ.る くだ.り くだ.す -くだ.す くだ.さる お.ろす", "english": "inferior give, down, below, low, descend,"}, {"kanji": "来", "onyomi": "ライ タイ", "kunyomi": "く.る きた.る きた.す き.たす き.たる き", "english": "due, come, next, become cause,"}, {"kanji": "気", "onyomi": "キ ケ", "kunyomi": "いき", "english": "spirit, mind"}, {"kanji": "小", "onyomi": "ショウ", "kunyomi": "ちい.さい こ- お- さ", "english": "small little,"}, {"kanji": "七", "onyomi": "シチ ナ", "kunyomi": "なな なな.つ", "english": "seven"}, {"kanji": "山", "onyomi": "サン セン ヤ", "english": "mountain"}, {"kanji": "話", "onyomi": "ワ", "kunyomi": "はな.す はなし", "english": "tale, talk"}, {"kanji": "女", "onyomi": "ジョ ニョ ニョウ", "kunyomi": "おんな", "english": "female woman,"}, {"kanji": "北", "onyomi": "ホク キ", "english": "north"}, {"kanji": "午", "onyomi": "ゴ", "kunyomi": "うま", "english": "of 11AM-1PM, seventh zodiac horse, the sign noon, Chinese"}, {"kanji": "書 百", "onyomi": "ヒャク ビャク モ ショ -ガ", "kunyomi": "か.く -が.き", "english": "hundred write"}, {"kanji": "先", "onyomi": "セン マ.", "kunyomi": "さき", "english": "before, ahead, precedence previous, future,"}, {"kanji": "名", "onyomi": "メイ ミョウ", "kunyomi": "な", "english": "reputation noted, distinguished, name,"}, {"kanji": "川", "onyomi": "セン カ", "english": "river stream,"}, {"kanji": "千", "onyomi": "セン", "english": "thousand"}, {"kanji": "水", "onyomi": "スイ", "kunyomi": "みず みず", "english": "water"}, {"kanji": "男 半", "onyomi": "ハン ナカ. ダン ナン", "kunyomi": "おとこ", "english": "number, middle, half, male part- semi-, odd"}, {"kanji": "西", "onyomi": "セイ サイ ス ニ", "english": "Spain west,"}, {"kanji": "電", "onyomi": "デン", "english": "electricity"}, {"kanji": "校", "onyomi": "コウ キョ", "english": "correction printing, school, proof, exam,"}, {"kanji": "語", "onyomi": "ゴ", "kunyomi": "かた.る かた.らう", "english": "speech, language word,"}, {"kanji": "土", "onyomi": "ド ト ツ", "english": "soil, earth, ground, Turkey"}, {"kanji": "木", "onyomi": "ボク モク", "kunyomi": "き こ", "english": "tree, wood"}, {"kanji": "聞", "onyomi": "ブン モン", "kunyomi": "き.く き.こえる", "english": "ask, hear, listen"}, {"kanji": "食", "onyomi": "ショク ジキ ハ.", "kunyomi": "く.う く.らう た.べる", "english": "eat, food"}, {"kanji": "車", "onyomi": "シャ クル", "english": "car"}, {"kanji": "何", "onyomi": "カ", "kunyomi": "なに なん なに- なん", "english": "what"}, {"kanji": "南", "onyomi": "ナン ナ ミナ", "english": "south"}, {"kanji": "万", "onyomi": "マン バン ヨロ", "english": "thousand ten"}, {"kanji": "毎", "onyomi": "マイ -ゴト.", "kunyomi": "ごと", "english": "every"}, {"kanji": "白", "onyomi": "ハク ビャク シロ.", "kunyomi": "しろ しら-", "english": "white"}, {"kanji": "天", "onyomi": "テン", "kunyomi": "あまつ あめ あま", "english": "heavens, sky, imperial"}, {"kanji": "母", "onyomi": "ボ", "kunyomi": "はは も", "english": "mama, mother"}, {"kanji": "火", "onyomi": "カ", "kunyomi": "ひ -び ほ-", "english": "fire"}, {"kanji": "右", "onyomi": "ウ ユウ ミ", "english": "right"}, {"kanji": "読", "onyomi": "ドク トク トウ -ヨ.", "kunyomi": "よ.む", "english": "read"}, {"kanji": "友", "onyomi": "ユウ ト", "english": "friend"}, {"kanji": "左", "onyomi": "サ シャ ヒダ", "english": "left"}, {"kanji": "休", "onyomi": "キュウ", "kunyomi": "やす.む やす.まる やす.める", "english": "rest, retire, day off, sleep"}, {"kanji": "父", "onyomi": "フ", "kunyomi": "ちち", "english": "father"}]
+[
+  {
+    "kanji": "日",
+    "onyomi": "ニチ ジツ",
+    "kunyomi": "ひ -び",
+    "english": "Japan sun, day,"
+  },
+  {
+    "kanji": "一",
+    "onyomi": "イチ イツ ヒト.",
+    "kunyomi": "ひと-",
+    "english": "one"
+  },
+  { "kanji": "国", "onyomi": "コク ク", "english": "country" },
+  {
+    "kanji": "人",
+    "onyomi": "ジン ニン",
+    "kunyomi": "ひと -り",
+    "english": "person"
+  },
+  { "kanji": "年", "onyomi": "ネン ト", "english": "year" },
+  {
+    "kanji": "大",
+    "onyomi": "ダイ タイ -オオ.イ",
+    "kunyomi": "おお- おお.きい",
+    "english": "big large,"
+  },
+  {
+    "kanji": "十",
+    "onyomi": "ジュウ ジッ ジュッ",
+    "kunyomi": "とお",
+    "english": "ten"
+  },
+  {
+    "kanji": "二",
+    "onyomi": "ニ ジ フタタ.",
+    "kunyomi": "ふた ふた.つ",
+    "english": "two"
+  },
+  {
+    "kanji": "本",
+    "onyomi": "ホン モ",
+    "english": "real, for main, counter long true, book, things present,"
+  },
+  {
+    "kanji": "中",
+    "onyomi": "チュウ アタ.",
+    "kunyomi": "なか うち",
+    "english": "middle, center mean, inside, in,"
+  },
+  {
+    "kanji": "長",
+    "onyomi": "チョウ オ",
+    "kunyomi": "なが.い",
+    "english": "leader long,"
+  },
+  {
+    "kanji": "出",
+    "onyomi": "シュツ スイ イ.ダ",
+    "kunyomi": "で.る -で だ.す -だ.す い.でる",
+    "english": "leave exit,"
+  },
+  {
+    "kanji": "三",
+    "onyomi": "サン ゾウ ミッ.",
+    "kunyomi": "み み.つ",
+    "english": "three"
+  },
+  {
+    "kanji": "時",
+    "onyomi": "ジ -ド",
+    "kunyomi": "とき",
+    "english": "time, hour"
+  },
+  {
+    "kanji": "行 見",
+    "onyomi": "コウ ギョウ アン オコ.ナ ケン",
+    "kunyomi": "い.く ゆ.く -ゆ.き -ゆき -い.き いき おこな.う み.る み.える み.せる",
+    "english": "chances, at, idea, look visible hopes, -going, journey opinion, see,"
+  },
+  { "kanji": "月", "onyomi": "ゲツ ガツ ツ", "english": "month, moon" },
+  {
+    "kanji": "後",
+    "onyomi": "ゴ コウ オク.レ",
+    "kunyomi": "のち うし.ろ うしろ あと",
+    "english": "later behind, back,"
+  },
+  {
+    "kanji": "前",
+    "onyomi": "ゼン -マ",
+    "kunyomi": "まえ",
+    "english": "before in front,"
+  },
+  {
+    "kanji": "生",
+    "onyomi": "セイ ショウ",
+    "kunyomi": "い.きる い.かす い.ける う.まれる う.まれ うまれ う.む お.う は.える は.やす き なま なま- な.る",
+    "english": "genuine, birth life,"
+  },
+  { "kanji": "五", "onyomi": "ゴ イツ.", "kunyomi": "いつ", "english": "five" },
+  {
+    "kanji": "間",
+    "onyomi": "カン ケン",
+    "kunyomi": "あいだ ま あい",
+    "english": "interval, space"
+  },
+  {
+    "kanji": "上",
+    "onyomi": "ジョウ ショウ シャン ヨ.",
+    "kunyomi": "うえ -うえ うわ- かみ あ.げる -あ.げる あ.がる -あ.がる あ.がり -あ.がり のぼ.る のぼ.り のぼ.",
+    "english": "up above,"
+  },
+  { "kanji": "東", "onyomi": "トウ ヒガ", "english": "east" },
+  {
+    "kanji": "四",
+    "onyomi": "シ ヨ",
+    "kunyomi": "よ よ.つ よっ.つ",
+    "english": "four"
+  },
+  { "kanji": "今", "onyomi": "コン キン イ", "english": "now" },
+  {
+    "kanji": "金",
+    "onyomi": "キン コン ゴン -ガ",
+    "kunyomi": "かね かな-",
+    "english": "gold"
+  },
+  {
+    "kanji": "九",
+    "onyomi": "キュウ ク ココノ.",
+    "kunyomi": "ここの",
+    "english": "nine"
+  },
+  {
+    "kanji": "入",
+    "onyomi": "ニュウ ジュ ハイ.",
+    "kunyomi": "い.る -い.る -い.り い.れる -い.れ",
+    "english": "enter, insert"
+  },
+  {
+    "kanji": "学",
+    "onyomi": "ガク マナ.",
+    "english": "learning, science study,"
+  },
+  {
+    "kanji": "高",
+    "onyomi": "コウ タカ.メ",
+    "kunyomi": "たか.い たか -だか たか.まる",
+    "english": "tall, expensive high,"
+  },
+  {
+    "kanji": "円",
+    "onyomi": "エン マロ.ヤ",
+    "kunyomi": "まる.い まる まど まど.か",
+    "english": "yen, circle, round"
+  },
+  {
+    "kanji": "子",
+    "onyomi": "シ ス ツ",
+    "kunyomi": "こ -こ",
+    "english": "of first zodiac 11PM-1AM, the rat, sign child, Chinese"
+  },
+  {
+    "kanji": "外",
+    "onyomi": "ガイ ゲ",
+    "kunyomi": "そと ほか はず.す はず.れる と",
+    "english": "outside"
+  },
+  {
+    "kanji": "八",
+    "onyomi": "ハチ ヨ",
+    "kunyomi": "や や.つ やっ.つ",
+    "english": "eight"
+  },
+  {
+    "kanji": "六",
+    "onyomi": "ロク リク ム",
+    "kunyomi": "む む.つ むっ.つ",
+    "english": "six"
+  },
+  {
+    "kanji": "下",
+    "onyomi": "カ ゲ オ.リ",
+    "kunyomi": "した しも もと さ.げる さ.がる くだ.る くだ.り くだ.す -くだ.す くだ.さる お.ろす",
+    "english": "inferior give, down, below, low, descend,"
+  },
+  {
+    "kanji": "来",
+    "onyomi": "ライ タイ",
+    "kunyomi": "く.る きた.る きた.す き.たす き.たる き",
+    "english": "due, come, next, become cause,"
+  },
+  {
+    "kanji": "気",
+    "onyomi": "キ ケ",
+    "kunyomi": "いき",
+    "english": "spirit, mind"
+  },
+  {
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい.さい こ- お- さ",
+    "english": "small little,"
+  },
+  {
+    "kanji": "七",
+    "onyomi": "シチ ナ",
+    "kunyomi": "なな なな.つ",
+    "english": "seven"
+  },
+  { "kanji": "山", "onyomi": "サン セン ヤ", "english": "mountain" },
+  {
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな.す はなし",
+    "english": "tale, talk"
+  },
+  {
+    "kanji": "女",
+    "onyomi": "ジョ ニョ ニョウ",
+    "kunyomi": "おんな",
+    "english": "female woman,"
+  },
+  { "kanji": "北", "onyomi": "ホク キ", "english": "north" },
+  {
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "english": "of 11AM-1PM, seventh zodiac horse, the sign noon, Chinese"
+  },
+  {
+    "kanji": "書 百",
+    "onyomi": "ヒャク ビャク モ ショ -ガ",
+    "kunyomi": "か.く -が.き",
+    "english": "hundred write"
+  },
+  {
+    "kanji": "先",
+    "onyomi": "セン マ.",
+    "kunyomi": "さき",
+    "english": "before, ahead, precedence previous, future,"
+  },
+  {
+    "kanji": "名",
+    "onyomi": "メイ ミョウ",
+    "kunyomi": "な",
+    "english": "reputation noted, distinguished, name,"
+  },
+  { "kanji": "川", "onyomi": "セン カ", "english": "river stream," },
+  { "kanji": "千", "onyomi": "セン", "english": "thousand" },
+  {
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず みず",
+    "english": "water"
+  },
+  {
+    "kanji": "男 半",
+    "onyomi": "ハン ナカ. ダン ナン",
+    "kunyomi": "おとこ",
+    "english": "number, middle, half, male part- semi-, odd"
+  },
+  { "kanji": "西", "onyomi": "セイ サイ ス ニ", "english": "Spain west," },
+  { "kanji": "電", "onyomi": "デン", "english": "electricity" },
+  {
+    "kanji": "校",
+    "onyomi": "コウ キョ",
+    "english": "correction printing, school, proof, exam,"
+  },
+  {
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた.る かた.らう",
+    "english": "speech, language word,"
+  },
+  {
+    "kanji": "土",
+    "onyomi": "ド ト ツ",
+    "english": "soil, earth, ground, Turkey"
+  },
+  {
+    "kanji": "木",
+    "onyomi": "ボク モク",
+    "kunyomi": "き こ",
+    "english": "tree, wood"
+  },
+  {
+    "kanji": "聞",
+    "onyomi": "ブン モン",
+    "kunyomi": "き.く き.こえる",
+    "english": "ask, hear, listen"
+  },
+  {
+    "kanji": "食",
+    "onyomi": "ショク ジキ ハ.",
+    "kunyomi": "く.う く.らう た.べる",
+    "english": "eat, food"
+  },
+  { "kanji": "車", "onyomi": "シャ クル", "english": "car" },
+  {
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに なん なに- なん",
+    "english": "what"
+  },
+  { "kanji": "南", "onyomi": "ナン ナ ミナ", "english": "south" },
+  { "kanji": "万", "onyomi": "マン バン ヨロ", "english": "thousand ten" },
+  {
+    "kanji": "毎",
+    "onyomi": "マイ -ゴト.",
+    "kunyomi": "ごと",
+    "english": "every"
+  },
+  {
+    "kanji": "白",
+    "onyomi": "ハク ビャク シロ.",
+    "kunyomi": "しろ しら-",
+    "english": "white"
+  },
+  {
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ あめ あま",
+    "english": "heavens, sky, imperial"
+  },
+  {
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは も",
+    "english": "mama, mother"
+  },
+  { "kanji": "火", "onyomi": "カ", "kunyomi": "ひ -び ほ-", "english": "fire" },
+  { "kanji": "右", "onyomi": "ウ ユウ ミ", "english": "right" },
+  {
+    "kanji": "読",
+    "onyomi": "ドク トク トウ -ヨ.",
+    "kunyomi": "よ.む",
+    "english": "read"
+  },
+  { "kanji": "友", "onyomi": "ユウ ト", "english": "friend" },
+  { "kanji": "左", "onyomi": "サ シャ ヒダ", "english": "left" },
+  {
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす.む やす.まる やす.める",
+    "english": "rest, retire, day off, sleep"
+  },
+  { "kanji": "父", "onyomi": "フ", "kunyomi": "ちち", "english": "father" }
+]
