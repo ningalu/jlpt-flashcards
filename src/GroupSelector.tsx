@@ -19,66 +19,71 @@ const GroupSelector = ({
   setGroups,
 }: GroupSelectorProps) => {
   return (
-    <table className="table-fixed">
-      <thead>
-        <tr className="text-gray-400">
-          <td className=" w-24">Group</td>
-          {[...levels]
-            .sort((a, b) => {
-              return a.content.length < b.content.length
-                ? 1
-                : a.content.length > b.content.length
-                ? -1
-                : 0;
-            })[0]
-            .content.map((_, i) => {
-              return <td className="w-12">{i + 1}</td>;
-            })}
-        </tr>
-      </thead>
-      <tbody>
-        {levels.map(({ level, content }, i) => {
-          return (
-            <tr key={i}>
-              <td key={i}>{level}</td>
+    <div className="grid">
+      <div className="text-gray-400">
+        <span className="w-24 inline-block">Group</span>
+        {[...levels]
+          .sort((a, b) => {
+            return a.content.length < b.content.length
+              ? 1
+              : a.content.length > b.content.length
+              ? -1
+              : 0;
+          })[0]
+          .content.map((_, i) => {
+            return (
+              i < 16 && (
+                <div key={i} className="inline-block w-8 m-1">
+                  <span className="table m-auto">{i + 1}</span>
+                </div>
+              )
+            );
+          })}
+      </div>
+      {levels.map(({ level, content }, i) => {
+        return (
+          <div key={i} className="flex">
+            <span key={i} className="w-24 py-2">
+              {level}
+            </span>
+            <div className="grid grid-flow-row grid-cols-16">
               {content.map((value, i) => (
-                <td key={i}>
-                  <input
-                    type="checkbox"
-                    id={`${name} ${i}`}
-                    checked={groups.reduce(
-                      (acc, curr) =>
-                        acc ||
-                        compareShallow(curr, {
-                          category: category,
-                          level: level,
-                          number: i + 1,
-                        }),
-                      false
-                    )}
-                    onChange={(event) => {
-                      console.log(value, i);
-                      let selected = {
+                <input
+                  type="checkbox"
+                  className="w-8 h-8 m-1"
+                  key={`${level} ${i}`}
+                  checked={groups.reduce(
+                    (acc, curr) =>
+                      acc ||
+                      compareShallow(curr, {
                         category: category,
                         level: level,
-                        number: i + 1,
-                      };
-                      event.target.checked
-                        ? setGroups([...groups, selected])
-                        : setGroups(
-                            [...groups].filter((v) => {
-                              return !compareShallow(v, selected);
-                            })
-                          );
-                    }}
-                  />
-                </td>
+                        number: i,
+                      }),
+                    false
+                  )}
+                  onChange={(event) => {
+                    console.log(value, i);
+                    let selected = {
+                      category: category,
+                      level: level,
+                      number: i,
+                    };
+                    event.target.checked
+                      ? setGroups([...groups, selected])
+                      : setGroups(
+                          [...groups].filter((v) => {
+                            return !compareShallow(v, selected);
+                          })
+                        );
+                  }}
+                />
               ))}
-            </tr>
-          );
-        })}
-      </tbody>
-    </table>
+            </div>
+          </div>
+        );
+      })}
+    </div>
   );
 };
 

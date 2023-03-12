@@ -13,6 +13,7 @@ import VocabN5Json from "./assets/json/VocabList_N5_Formatted.json";
 import { evenPartition } from "./util";
 import { CardData } from "./CardData";
 import { Level } from "./Level";
+import { Category } from "./Category";
 
 const HiraganaGroups = HiraganaJson as Array<Array<CardData>>;
 const KatakanaGroups = KatakanaJson as Array<Array<CardData>>;
@@ -97,3 +98,11 @@ export const KanaLevels = [
   { level: Level.Hiragana, content: HiraganaGroups },
   { level: Level.Katakana, content: KatakanaGroups },
 ];
+
+export const Levels = new Map([
+  [Category.Kana, KanaLevels],
+  [Category.Kanji, KanjiLevels],
+  [Category.Vocab, VocabLevels],
+]);
+
+console.log(Levels);

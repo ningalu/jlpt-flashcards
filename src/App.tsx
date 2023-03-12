@@ -12,8 +12,11 @@ import GroupSelector from "./GroupSelector";
 
 const modalStyle = {
   content: {
-    width: "66%",
+    right: "auto",
     margin: "auto",
+    position: "absolute",
+    left: "50%",
+    transform: "translate(-50%)",
   },
 };
 
@@ -48,58 +51,61 @@ function App() {
           setCardSelect(false);
         }}
         style={modalStyle}
+        ariaHideApp={false}
       >
-        <div className="flex">
-          <h1 className="self-center mr-4 pb-1">Choose Category</h1>
-          <button
-            className="px-2 mr-2 my-4 w-20 bg-red-500 border-red-600 border-2 rounded-md inline self-center"
-            onClick={() => {
-              setGroups([]);
-            }}
-          >
-            Clear All
-          </button>
-        </div>
+        <div className="mx-4 w-[48rem]">
+          <div className="flex">
+            <h1 className="self-center mr-4 pb-1">Choose Category</h1>
+            <button
+              className="px-2 mr-2 my-4 w-20 bg-red-500 border-red-600 border-2 rounded-md inline self-center"
+              onClick={() => {
+                setGroups([]);
+              }}
+            >
+              Clear All
+            </button>
+          </div>
 
-        <div className="flex">
-          {categoryButtons.map(({ name, cat }, i) => {
-            return (
-              <button
-                key={i}
-                className="p-2 mr-2 my-4 w-20 bg-gray-200 border-gray-300 border-2 rounded-md inline self-center"
-                onClick={() => {
-                  setChooseCategory(cat);
-                }}
-              >
-                {name}
-              </button>
-            );
-          })}
+          <div className="flex">
+            {categoryButtons.map(({ name, cat }, i) => {
+              return (
+                <button
+                  key={i}
+                  className="p-2 mr-2 my-4 w-20 bg-gray-200 border-gray-300 border-2 rounded-md inline self-center"
+                  onClick={() => {
+                    setChooseCategory(cat);
+                  }}
+                >
+                  {name}
+                </button>
+              );
+            })}
+          </div>
+          {chooseCategory === Category.Kana && (
+            <GroupSelector
+              category={Category.Kana}
+              levels={KanaLevels}
+              groups={groups}
+              setGroups={setGroups}
+            />
+          )}
+          {chooseCategory === Category.Kanji && (
+            <GroupSelector
+              category={Category.Kanji}
+              levels={KanjiLevels}
+              groups={groups}
+              setGroups={setGroups}
+            />
+          )}
+          {chooseCategory === Category.Vocab && (
+            <GroupSelector
+              category={Category.Vocab}
+              levels={VocabLevels}
+              groups={groups}
+              setGroups={setGroups}
+            />
+          )}
         </div>
-        {chooseCategory === Category.Kana && (
-          <GroupSelector
-            category={Category.Kana}
-            levels={KanaLevels}
-            groups={groups}
-            setGroups={setGroups}
-          />
-        )}
-        {chooseCategory === Category.Kanji && (
-          <GroupSelector
-            category={Category.Kanji}
-            levels={KanjiLevels}
-            groups={groups}
-            setGroups={setGroups}
-          />
-        )}
-        {chooseCategory === Category.Vocab && (
-          <GroupSelector
-            category={Category.Vocab}
-            levels={VocabLevels}
-            groups={groups}
-            setGroups={setGroups}
-          />
-        )}
       </Modal>
     </div>
   );
