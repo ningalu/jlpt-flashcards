@@ -116,11 +116,11 @@ def format_vocab():
             with open(get_script_dir() + "/json/" + out_name + ".json", "w", encoding="utf-8") as json_out:
                 json_out.write(json_str)
 
-            with open(get_script_dir() + "/zip/" + out_name + ".zip", "wb") as zip_out:
-                zip_out.write(base64.b64encode("{ \"d\": \"".encode("utf-8")))
-                zip_out.write(base64.b64encode(
-                    gzip.compress(json_str.encode("utf-8"))))
-                zip_out.write(base64.b64encode("\"}".encode("utf-8")))
+            # with open(get_script_dir() + "/zip/" + out_name + ".zip", "wb") as zip_out:
+            #     zip_out.write(base64.b64encode("{ \"d\": \"".encode("utf-8")))
+            #     zip_out.write(base64.b64encode(
+            #         gzip.compress(json_str.encode("utf-8"))))
+            #     zip_out.write(base64.b64encode("\"}".encode("utf-8")))
 
 
 def format_kanji():
@@ -183,16 +183,21 @@ def format_kanji():
             with open(get_script_dir() + "/json/" + out_name + ".json", "w", encoding="utf-8") as json_out:
                 json_out.write(json_str)
 
-            with open(get_script_dir() + "/zip/" + out_name + ".zip", "w") as zip_out:
-                zip_out.write("{ \"d\": \"")
-                zip_out.write(gzip.compress(
-                    json_str.encode("utf-8")).decode("utf-8"))
-                zip_out.write("\"}")
-                # zip_out.write(base64.b64encode("{ \"d\": \"".encode("utf-8") + base64.b64encode(gzip.compress(
-                #     json_str.encode("utf-8"))) + base64.b64encode("\"}".encode("utf-8"))))
-                # zip_out.write(base64.b64encode(
-                #     gzip.compress(json_str.encode("utf-8"))))
-                # zip_out.write(base64.b64encode("\"}".encode("utf-8")))
+            zip_content = gzip.compress(json_str.encode("utf-8"))
+            b64_content = base64.b64encode(zip_content)
+            # print(b64_content)
+
+            # with open("{0}/base64/{1}".format(get_script_dir(), out_name), "wb") as b64_out:
+            #     b64_out.write(b64_content)
+
+            # with open(get_script_dir() + "/zip/" + out_name + ".zip", "w") as zip_out:
+            #     zip_out.write("{ \"d\": \"")
+            #     zip_out.write("\"}")
+            # zip_out.write(base64.b64encode("{ \"d\": \"".encode("utf-8") + base64.b64encode(gzip.compress(
+            #     json_str.encode("utf-8"))) + base64.b64encode("\"}".encode("utf-8"))))
+            # zip_out.write(base64.b64encode(
+            #     gzip.compress(json_str.encode("utf-8"))))
+            # zip_out.write(base64.b64encode("\"}".encode("utf-8")))
 
 
 def format_text():

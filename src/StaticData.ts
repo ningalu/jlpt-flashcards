@@ -62,28 +62,28 @@ export const KanjiLevels = new Map([
   [
     Level.N1,
     evenPartition(
-      (KanjiN1Json as Array<KanjiData>).map(({kanji, onyomi, kunyomi, english}) => {return {kanji: kanji, kana: `onyomi: ${onyomi}\nkunyomi: ${kunyomi}`, english: english}}),
+      (KanjiN1Json as Array<KanjiData>),
       Math.round(KanjiN1Json.length / 60)
     ),
   ],
   [
     Level.N2,
     evenPartition(
-      KanjiN2Json as Array<CardData>,
+      (KanjiN2Json as Array<KanjiData>),
       Math.round(KanjiN2Json.length / 40)
     ),
   ],
   [
     Level.N3,
     evenPartition(
-      KanjiN3Json as Array<CardData>,
+      (KanjiN3Json as Array<KanjiData>),
       Math.round(KanjiN3Json.length / 40)
     ),
   ],
   [
     Level.N4,
     evenPartition(
-      KanjiN4Json as Array<CardData>,
+      (KanjiN4Json as Array<KanjiData>),
       Math.round(KanjiN4Json.length / 30)
     ),
   ],

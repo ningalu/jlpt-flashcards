@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import AnswerCard from "./AnswerCard";
 import { CardData } from "./CardData";
 import { compareShallow, range, shuffle } from "./util";
 
@@ -80,19 +81,7 @@ const Flashcards = ({
       <div className="flex justify-center">
         <div className="mt-48 flex">
           <div>
-            <span
-              className={`w-96 h-96 mr-3 transform bg-white flex items-center justify-center border-gray-200 border-2 ${
-                remaining.length > 1 ? "text-9xl" : "text-6xl"
-              }`}
-            >
-              {result !== undefined
-                ? remaining[0].english
-                : remaining.length <= 0
-                ? "Complete!"
-                : remaining[0].kanji === undefined
-                ? remaining[0].kana
-                : remaining[0].kanji}
-            </span>
+            <AnswerCard card={remaining[0]} answered={result !== undefined} />
             <div className="flex justify-end">
               <button
                 className={`p-2 w-20 m-4 mr-3 ${
