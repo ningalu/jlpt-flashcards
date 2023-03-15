@@ -71,3 +71,20 @@ export const evenPartition = <T>(a: Array<T>, n: number): Array<Array<T>> => {
 
   return out;
 };
+
+export function range(n: number, end: number | undefined = undefined) {
+  return end === undefined
+    ? Array.from({ length: n }, (v, k) => k)
+    : Array.from({ length: end - n }, (v, k) => k + n);
+}
+
+export const shuffle = <T>(a: Array<T>) => {
+  let out = [...a];
+  for (let i = out.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i * 1));
+    let t = out[i];
+    out[i] = out[j];
+    out[j] = t;
+  }
+  return out;
+};

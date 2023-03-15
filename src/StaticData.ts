@@ -18,91 +18,89 @@ import { Category } from "./Category";
 const HiraganaGroups = HiraganaJson as Array<Array<CardData>>;
 const KatakanaGroups = KatakanaJson as Array<Array<CardData>>;
 
-export const VocabLevels = [
-  {
-    level: Level.N1,
-    content: evenPartition(
+export const VocabLevels = new Map([
+  [
+    Level.N1,
+    evenPartition(
       VocabN1Json as Array<CardData>,
       Math.round(VocabN1Json.length / 60)
     ),
-  },
-  {
-    level: Level.N2,
-    content: evenPartition(
+  ],
+  [
+    Level.N2,
+    evenPartition(
       VocabN2Json as Array<CardData>,
       Math.round(VocabN2Json.length / 60)
     ),
-  },
-  {
-    level: Level.N3,
-    content: evenPartition(
+  ],
+  [
+    Level.N3,
+    evenPartition(
       VocabN3Json as Array<CardData>,
       Math.round(VocabN3Json.length / 60)
     ),
-  },
-  {
-    level: Level.N4,
-    content: evenPartition(
+  ],
+  [
+    Level.N4,
+    evenPartition(
       VocabN4Json as Array<CardData>,
       Math.round(VocabN4Json.length / 60)
     ),
-  },
-  {
-    level: Level.N5,
-    content: evenPartition(
+  ],
+  [
+    Level.N5,
+    evenPartition(
       VocabN5Json as Array<CardData>,
       Math.round(VocabN5Json.length / 60)
     ),
-  },
-];
+  ],
+]);
 
-export const KanjiLevels = [
-  {
-    level: Level.N1,
-    content: evenPartition(
+export const KanjiLevels = new Map([
+  [
+    Level.N1,
+    evenPartition(
       KanjiN1Json as Array<CardData>,
       Math.round(KanjiN1Json.length / 60)
     ),
-  },
-  {
-    level: Level.N2,
-    content: evenPartition(
+  ],
+  [
+    Level.N2,
+    evenPartition(
       KanjiN2Json as Array<CardData>,
       Math.round(KanjiN2Json.length / 40)
     ),
-  },
-  {
-    level: Level.N3,
-    content: evenPartition(
+  ],
+  [
+    Level.N3,
+    evenPartition(
       KanjiN3Json as Array<CardData>,
       Math.round(KanjiN3Json.length / 40)
     ),
-  },
-  {
-    level: Level.N4,
-    content: evenPartition(
+  ],
+  [
+    Level.N4,
+    evenPartition(
       KanjiN4Json as Array<CardData>,
       Math.round(KanjiN4Json.length / 30)
     ),
-  },
-  {
-    level: Level.N5,
-    content: evenPartition(
+  ],
+  [
+    Level.N5,
+    evenPartition(
       KanjiN5Json as Array<CardData>,
       Math.round(KanjiN5Json.length / 20)
     ),
-  },
-];
+  ],
+]);
 
-export const KanaLevels = [
-  { level: Level.Hiragana, content: HiraganaGroups },
-  { level: Level.Katakana, content: KatakanaGroups },
-];
+export const KanaLevels = new Map([
+  [Level.Hiragana, HiraganaGroups],
+  [Level.Katakana, KatakanaGroups],
+]);
 
-export const Levels = new Map([
+export const Levels: Map<Category, Map<Level, CardData[][]>> = new Map([
   [Category.Kana, KanaLevels],
   [Category.Kanji, KanjiLevels],
   [Category.Vocab, VocabLevels],
 ]);
-
-console.log(Levels);

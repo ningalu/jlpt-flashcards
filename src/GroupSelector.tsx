@@ -22,15 +22,11 @@ const GroupSelector = ({
     <div className="grid">
       <div className="text-gray-400">
         <span className="w-24 inline-block">Group</span>
-        {[...levels]
+        {[...levels.values()]
           .sort((a, b) => {
-            return a.content.length < b.content.length
-              ? 1
-              : a.content.length > b.content.length
-              ? -1
-              : 0;
+            return a.length < b.length ? 1 : a.length > b.length ? -1 : 0;
           })[0]
-          .content.map((_, i) => {
+          .map((_, i) => {
             return (
               i < 16 && (
                 <div key={i} className="inline-block w-8 m-1">
@@ -40,7 +36,7 @@ const GroupSelector = ({
             );
           })}
       </div>
-      {levels.map(({ level, content }, i) => {
+      {[...levels].map(([level, content], i) => {
         return (
           <div key={i} className="flex">
             <span key={i} className="w-24 py-2">
@@ -63,7 +59,6 @@ const GroupSelector = ({
                     false
                   )}
                   onChange={(event) => {
-                    console.log(value, i);
                     let selected = {
                       category: category,
                       level: level,
