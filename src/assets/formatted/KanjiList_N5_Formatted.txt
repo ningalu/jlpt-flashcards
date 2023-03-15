@@ -1,7 +1,7 @@
 日
 ニチ ジツ
 ひ -び
-sun, day, Japan
+day, sun, Japan
 
 一
 イチ イツ ヒト.
@@ -24,7 +24,7 @@ year
 大
 ダイ タイ -オオ.イ
 おお- おお.きい
-big large,
+large, big
 
 十
 ジュウ ジッ ジュッ
@@ -38,12 +38,12 @@ two
 
 本
 ホン モ
-for counter true, things present, real, long main, book,
+main, for present, counter things long real, true, book,
 
 中
 チュウ アタ.
 なか うち
-center in, inside, mean, middle,
+middle, in, inside, center mean,
 
 長
 チョウ オ
@@ -63,12 +63,12 @@ three
 時
 ジ -ド
 とき
-time, hour
+hour time,
 
 見 行
 コウ ギョウ アン オコ.ナ ケン
 い.く ゆ.く -ゆ.き -ゆき -い.き いき おこな.う み.る み.える み.せる
-idea, opinion, chances, at, visible see, look -going, journey hopes,
+-going, see, journey hopes, at, visible look opinion, chances, idea,
 
 月
 ゲツ ガツ ツ
@@ -77,17 +77,17 @@ moon month,
 後
 ゴ コウ オク.レ
 のち うし.ろ うしろ あと
-behind, later back,
+back, behind, later
 
 前
 ゼン -マ
 まえ
-front, before in
+in front, before
 
 生
 セイ ショウ
 い.きる い.かす い.ける う.まれる う.まれ うまれ う.む お.う は.える は.やす き なま なま- な.る
-genuine, life, birth
+birth life, genuine,
 
 五
 ゴ イツ.
@@ -102,7 +102,7 @@ interval, space
 上
 ジョウ ショウ シャン ヨ.
 うえ -うえ うわ- かみ あ.げる -あ.げる あ.がる -あ.がる あ.がり -あ.がり のぼ.る のぼ.り のぼ.
-above, up
+up above,
 
 東
 トウ ヒガ
@@ -130,26 +130,26 @@ nine
 入
 ニュウ ジュ ハイ.
 い.る -い.る -い.り い.れる -い.れ
-insert enter,
+enter, insert
 
 学
 ガク マナ.
-science learning, study,
+study, science learning,
 
 高
 コウ タカ.メ
 たか.い たか -だか たか.まる
-expensive high, tall,
+expensive tall, high,
 
 円
 エン マロ.ヤ
 まる.い まる まど まど.か
-round yen, circle,
+round circle, yen,
 
 子
 シ ス ツ
 こ -こ
-sign child, 11PM-1AM, the rat, zodiac first Chinese of
+zodiac of sign first child, 11PM-1AM, rat, the Chinese
 
 外
 ガイ ゲ
@@ -169,17 +169,17 @@ six
 下
 カ ゲ オ.リ
 した しも もと さ.げる さ.がる くだ.る くだ.り くだ.す -くだ.す くだ.さる お.ろす
-inferior below, low, descend, down, give,
+descend, down, inferior low, below, give,
 
 来
 ライ タイ
 く.る きた.る きた.す き.たす き.たる き
-due, next, come, become cause,
+become come, due, cause, next,
 
 気
 キ ケ
 いき
-spirit, mind
+mind spirit,
 
 小
 ショウ
@@ -212,9 +212,9 @@ north
 午
 ゴ
 うま
-sign 11AM-1PM, noon, the horse, zodiac Chinese of seventh
+zodiac of sign seventh 11AM-1PM, the noon, horse, Chinese
 
-百 書
+書 百
 ヒャク ビャク モ ショ -ガ
 か.く -が.き
 hundred write
@@ -222,12 +222,12 @@ hundred write
 先
 セン マ.
 さき
-before, previous, ahead, precedence future,
+ahead, future, previous, before, precedence
 
 名
 メイ ミョウ
 な
-name, reputation distinguished, noted,
+name, noted, distinguished, reputation
 
 川
 セン カ
@@ -242,14 +242,14 @@ thousand
 みず みず
 water
 
-男 半
+半 男
 ハン ナカ. ダン ナン
 おとこ
-half, middle, odd male part- number, semi-,
+middle, semi-, male part- half, number, odd
 
 西
 セイ サイ ス ニ
-west, Spain
+Spain west,
 
 電
 デン
@@ -257,31 +257,31 @@ electricity
 
 校
 コウ キョ
-school, printing, correction proof, exam,
+proof, school, correction printing, exam,
 
 語
 ゴ
 かた.る かた.らう
-speech, language word,
+language speech, word,
 
 土
 ド ト ツ
-ground, Turkey soil, earth,
+earth, soil, Turkey ground,
 
 木
 ボク モク
 き こ
-tree, wood
+wood tree,
 
 聞
 ブン モン
 き.く き.こえる
-listen ask, hear,
+ask, hear, listen
 
 食
 ショク ジキ ハ.
 く.う く.らう た.べる
-food eat,
+eat, food
 
 車
 シャ クル
@@ -313,7 +313,7 @@ white
 天
 テン
 あまつ あめ あま
-sky, heavens, imperial
+imperial heavens, sky,
 
 母
 ボ
@@ -345,7 +345,7 @@ left
 休
 キュウ
 やす.む やす.まる やす.める
-off, rest, day retire, sleep
+off, retire, sleep rest, day
 
 父
 フ

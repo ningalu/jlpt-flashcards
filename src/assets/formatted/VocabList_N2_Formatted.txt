@@ -102,7 +102,7 @@ address, direction
 あてはまる
 to be applicable, to come under (a category), to fulf ill
 
-あてはめ る
+る あてはめ
 to apply, to adapt
 
 暴れる
@@ -295,7 +295,7 @@ once, for a moment, one morning, temporarily
 いってい
 fixed, settled, definite
 
-いってらっしゃい いってまいります いっていらっしゃい いつのまにか
+いってまいります いつのまにか いってらっしゃい いっていらっしゃい
 before one knows, unnoticed, unawares
 
 移転
@@ -602,7 +602,7 @@ main street
 automation
 
 大凡
-おおよそ オーバーコート
+オーバーコート おおよそ
 about, roughly, as a rule, approximately
 
 お帰り
@@ -628,7 +628,7 @@ second helping, another cup
 to compensate for
 
 屋外
-おくがい おきのどくに
+おきのどくに おくがい
 outdoors
 
 おくさん
@@ -639,7 +639,7 @@ outdoors
 part of word written in kana
 
 怠る
-おこたる おげんきで
+おげんきで おこたる
 to neglect, to be off guard, to be feeling better
 
 押える
@@ -757,7 +757,7 @@ Sorry to have kept you waiting
 happy event, matter for congratulation, auspicious event, pregnancy
 
 思い掛け
-おもいがけない ない
+ない おもいがけない
 unexpected, casual
 
 思い込む
@@ -2094,7 +2094,7 @@ to cross, to pass, to tide over
 to rub, to chafe, to file, to frost (glass), to strike (match)
 
 個体
-こたい ごぞんじですか
+ごぞんじですか こたい
 an individual
 
 御馳走
@@ -2104,7 +2104,7 @@ feast, treating (someone)
 ごちそうさま
 feast
 
-こちらこ そ
+そ こちらこ
 it is I who should say so
 
 小遣い
@@ -2867,7 +2867,7 @@ digestion
 grade school student
 
 将棋
-しょうがない しょうぎ
+しょうぎ しょうがない
 Japanese chess
 
 蒸気
@@ -3172,7 +3172,7 @@ Wednesday
 impudent, shameless
 
 末っ子
-すえっこ ずうっと
+ずうっと すえっこ
 youngest child
 
 スカーフ
@@ -3239,7 +3239,7 @@ sour, acid
 (1) stage, (2) performance
 
 棄てる
-ストッキング すてる
+すてる ストッキング
 stockings
 
 ストップ
@@ -3304,7 +3304,7 @@ sly, cunning
 to pass by one another, to disagree
 
 滑れる 寸法
-すんぽう ずれる
+ずれる すんぽう
 measurement, size, dimension
 
 姓
@@ -3416,7 +3416,7 @@ soap
 to come in contact with, to connect, to attend, to rec eive
 
 接続
-せっせと せつぞく
+せつぞく せっせと
 (1) connection, union, join, link, (2) changing trains
 
 瀬戸物
@@ -3476,7 +3476,7 @@ despotism, autocracy
 month before last
 
 先々週 先祖
-せんぞ せんせんしゅう
+せんせんしゅう せんぞ
 ancestor
 
 先端
@@ -3553,7 +3553,7 @@ noisy, boisterous
 enlargement
 
 送別
-そうべつ そうっと
+そうっと そうべつ
 farewell, send-off
 
 草履
@@ -3649,7 +3649,7 @@ abacus
 (hum) to know
 
 存ずる 損得
-そんとく ぞんずる
+ぞんずる そんとく
 loss and gain, advantage and disadvantage
 
 田ぼ
@@ -4117,7 +4117,7 @@ currency
 commuting to work
 
 通ずる 通知
-つうち つうずる
+つうずる つうち
 notice, notification
 
 通帳
@@ -4421,7 +4421,7 @@ battery
 here and there, little by little
 
 転々 電柱
-てんてん でんちゅう
+でんちゅう てんてん
 telephone pole, telegraph pole, lightpole
 
 天皇
@@ -4730,7 +4730,7 @@ to accomplish, to do
 riddle, puzzle, enigma
 
 傾らか 懐かしい
-なつかしい なだらか
+なだらか なつかしい
 dear, desired, missed
 
 撫でる
@@ -5002,7 +5002,7 @@ haiku poetry
 shop, stand
 
 売買
-ばいばい バイバイ
+バイバイ ばいばい
 trade, buying and selling
 
 這う
@@ -5071,11 +5071,11 @@ ladder, stairs
 to begin with, first of all
 
 初めに
-はじめに はじめまして
+はじめまして はじめに
 How do you do?, I am glad to meet you
 
 斜 外れる
-はずれる はす
+はす はずれる
 to be disconnected, to get out of place, to be off, to be out (e.g. of gear)
 
 パターン
@@ -5300,7 +5300,7 @@ pistol
 vitamin
 
 引っ掛かる
-ひっかかる ぴたり
+ぴたり ひっかかる
 to be caught in, to be stuck in, to be cheated
 
 筆記
@@ -6504,7 +6504,7 @@ landlord
 also, as I thought, still, in spite of, absolutely, of c ourse
 
 破く 破れる
-やぶく やぶれる
+やぶれる やぶく
 to get torn, to wear out
 
 やむをえない

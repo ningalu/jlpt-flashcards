@@ -1241,7 +1241,7 @@ conjugation, practical use
 to be sad, to mourn for, to regret
 
 必ずしも
-しも かならず
+かならず しも
 (not) always, (not) necessarily, (not) all, (not) enti rely
 
 かなり
@@ -1637,7 +1637,7 @@ relief, aid, rescue
 rapid (e.g. progress)
 
 急に 給料
-きゅうに きゅうりょう
+きゅうりょう きゅうに
 salary, wages
 
 器用
@@ -3731,7 +3731,7 @@ world, society
 theory
 
 積極的
-き せっきょくて
+せっきょくて き
 positive, active, proactive
 
 設計
@@ -4650,7 +4650,7 @@ applying
 if at all possible
 
 手品
-できれば てじな
+てじな できれば
 sleight of hand, conjuring trick, magic, juggling
 
 ですから

@@ -2992,7 +2992,7 @@ signature, register
 dramatization (e.g. film)
 
 脚本
-きゃくほ ん
+ん きゃくほ
 scenario
 
 客観
@@ -7985,7 +7985,7 @@ stethoscope
 challenge, defiance
 
 長大
-い ちょうだ
+ちょうだ い
 very long, great length
 
 調停
@@ -13606,7 +13606,7 @@ range, stove
 レンタカー
 hire car (lit: rent-a-car)
 
-ン レントゲ
+レントゲ ン
 X-ray (lit: Roentgen)
 
 ロープ
