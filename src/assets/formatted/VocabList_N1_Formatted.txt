@@ -7425,7 +7425,7 @@ height, stature, length, measure, all (one has)
 addition
 
 多数決
-たすうけ つ
+つ たすうけ
 majority rule
 
 助け
@@ -7985,7 +7985,7 @@ stethoscope
 challenge, defiance
 
 長大
-ちょうだ い
+い ちょうだ
 very long, great length
 
 調停
@@ -13606,7 +13606,7 @@ range, stove
 レンタカー
 hire car (lit: rent-a-car)
 
-レントゲ ン
+ン レントゲ
 X-ray (lit: Roentgen)
 
 ロープ

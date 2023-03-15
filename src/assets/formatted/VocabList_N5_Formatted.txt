@@ -1087,7 +1087,7 @@ Shirt
 Shower
 
 十
-じゅう とお
+とお じゅう
 Ten
 
 授業
@@ -2415,7 +2415,7 @@ next year
 ラジオ
 radio
 
-/ラジオカセット ラジカセ
+ラジカセ /ラジオカセット
 radio cassette player
 
 りっぱ

@@ -1,7 +1,7 @@
 党
 トウ
 なかま むら
-party, faction, clique
+faction, clique party,
 
 協
 キョウ
@@ -10,7 +10,7 @@ co-, cooperation
 総
 ソウ フ
 す.べて すべ.て
-all, whole, total general, full,
+total whole, full, all, general,
 
 区
 ク オウ コウ
@@ -18,7 +18,7 @@ district ward,
 
 領
 リョウ
-reign jurisdiction, fief, dominion, territory,
+reign jurisdiction, dominion, territory, fief,
 
 県
 ケン カ.ケ
@@ -26,15 +26,15 @@ prefecture
 
 設
 セツ モウ.ケ
-provision, prepare establishment,
+prepare establishment, provision,
 
 改
 カイ
 あらた.める あらた.まる
-examine, change, mend, inspect, search renew, reformation, modify,
+modify, reformation, inspect, examine, renew, change, mend, search
 
 府
-storehouse urban body, govt prefecture, office, borough, representative
+body, representative govt urban office, prefecture, storehouse borough,
 
 査
 サ
@@ -42,20 +42,20 @@ investigate
 
 委
 イ ユダ.ネ
-discard committee, entrust leave devote, to,
+committee, discard leave devote, entrust to,
 
 軍
 グン
-army, battle troops, force, war,
+battle force, army, troops, war,
 
 団
 ダン トン
 かたまり まる.い
-association group,
+group, association
 
 各
 カク オノオ
-either each, every,
+either every, each,
 
 島
 トウ
@@ -65,25 +65,25 @@ island
 革
 カク
 かわ
-leather, pelt serious, hide, become skin,
+pelt hide, leather, serious, skin, become
 
 村
 ソン ム
-town, village
+village town,
 
 勢
 セイ ゼイ ハズ
 いきお.い
-strength energy, forces, military
+energy, forces, strength military
 
 減
 ゲン
 へ.る へ.らす
-get reduce, hungry decrease, decline, dwindle, curtail,
+dwindle, decrease, curtail, hungry reduce, get decline,
 
 再
 サイ サ フタタ.
-twice, time again, second
+time second again, twice,
 
 税
 ゼ
@@ -92,46 +92,46 @@ duty tax,
 営
 エイ
 いとな.む いとな.み
-build, (business) perform, occupation, camp, conduct
+perform, conduct (business) camp, build, occupation,
 
 比
 ヒ クラ.ベ
-Philipines ratio, compare, race,
+ratio, compare, race, Philipines
 
 防
 ボウ フセ.
-resist ward off, defend, protect,
+off, ward protect, defend, resist
 
 補
 ホ
 おぎな.う
-learner compensate, supplement, make assistant, offset, good, supply,
+learner supplement, assistant, make supply, offset, good, compensate,
 
 境
 キョウ ケイ サカ
-boundary, region border,
+region border, boundary,
 
 導
 ドウ ミチビ.
-leading, conduct, guidance, usher
+conduct, leading, usher guidance,
 
 副
 フ
-duplicate, vice-, copy
+vice-, copy duplicate,
 
 算
 サン
 そろ
-number, calculate, divining, abacus, probability
+divining, calculate, abacus, probability number,
 
 輸
 ユ シュ
-send, be inferior transport,
+inferior be transport, send,
 
 述
 ジュツ
 の.べる
-mention, speak, relate state,
+relate state, mention, speak,
 
 線
 セン
@@ -148,19 +148,19 @@ province state,
 
 武
 ブ ム タケ.
-warrior, military, chivalry, arms
+military, warrior, chivalry, arms
 
 象
 ショウ ゾウ カタド.
-elephant, imitate, shape, image, the times) pattern sign (of after,
+imitate, times) sign elephant, image, pattern the shape, (of after,
 
 域
 イキ
-limits, stage, level range, region,
+region, limits, level stage, range,
 
 額
 ガク ヒタ
-sum, picture, forehead, framed volume tablet, amount, plaque,
+sum, forehead, amount, framed volume tablet, picture, plaque,
 
 欧
 オウ ハ.
@@ -170,37 +170,37 @@ Europe
 担
 タン
 かつ.ぐ にな.う
-bear raise, carry, shouldering,
+carry, raise, shouldering, bear
 
 準
 ジュン
 じゅん.じる じゅん.ずる なぞら.える のり ひと.しい みずもり
-semi-, imitate correspond proportionate to, conform,
+to, correspond conform, imitate proportionate semi-,
 
 賞
 ショウ
 ほ.める
-praise reward, prize,
+reward, prize, praise
 
 辺
 ヘン
 あた.り ほと.り
-boundary, vicinity environs, border,
+environs, vicinity border, boundary,
 
 造
 ゾウ -ヅク.
 つく.る つく.り
-make, structure, physique create,
+make, physique structure, create,
 
 被
 ヒ カブ.セ
 こうむ.る おお.う かぶ.る
-over, brood be incur, veil, cover, on, wear, put (film), exposed shelter, receiving
+exposed shelter, veil, cover, incur, (film), wear, be receiving brood on, put over,
 
 技
 ギ
 わざ
-feat, arts ability, skill, art, craft, vocation, performance,
+craft, vocation, arts ability, art, feat, performance, skill,
 
 低
 テイ
@@ -210,16 +210,16 @@ short, humble lower,
 復
 フク
 また
-restore, resume revert, return to,
+revert, return restore, resume to,
 
 移
 イ
 うつ.る うつ.す
-change, drift, pass move, shift, (cold, catch fire), into
+into shift, (cold, change, catch move, pass drift, fire),
 
 個
 コ カ
-for articles and counter units individual, military
+for individual, counter articles units and military
 
 門
 モン
@@ -228,7 +228,7 @@ gates
 
 課
 カ
-for book) lesson, section, department, counter chapters division, (of a chapter,
+lesson, for counter book) chapters (of division, section, department, a chapter,
 
 脳
 ノウ ドウ
@@ -238,21 +238,21 @@ brain, memory
 極
 キョク ゴク
 きわ.める きわ.まる きわ.まり きわ.み き.める -ぎ.め き.まる
-very, extremely, end, highest poles, most, conclusion, electric settlement, rank, highly,
+very, electric highly, rank, poles, most, highest extremely, conclusion, end, settlement,
 
 含
 ガン
 ふく.む ふく.める
-include, cherish bear in mind, understand,
+mind, understand, in include, cherish bear
 
 蔵
 ゾウ ソウ カク.レ
 くら おさ.める
-have, possess hide, own, storehouse,
+hide, storehouse, have, own, possess
 
 量
 リョウ ハカ.
-weight, surmise consider, measure, quantity, estimate, amount,
+measure, amount, surmise quantity, weight, consider, estimate,
 
 型
 ケイ
@@ -262,7 +262,7 @@ model type, mould,
 況
 キョウ
 まし.て いわ.んや おもむき
-situation condition,
+condition, situation
 
 針
 シン ハ
@@ -271,7 +271,7 @@ staple, stinger pin, needle,
 専
 セン
 もっぱ.ら
-mainly, exclusive, specialty, solely
+solely specialty, mainly, exclusive,
 
 谷
 コク キワ.マ
@@ -283,40 +283,40 @@ chronicle history,
 
 階
 カイ キザハ
-for of counter storey, building storeys stair, a
+for storey, counter a stair, building of storeys
 
 管
 カン ク
-talk pipe, tube, wind drunken instrument,
+tube, drunken wind pipe, instrument, talk
 
 兵
 ヘイ ヒョウ ツワモ
-warfare, tactics private, army, strategy, troops, soldier,
+soldier, warfare, army, private, troops, tactics strategy,
 
 接
 セツ ショウ
 つ.ぐ
-adjoin, contact, together touch, piece
+adjoin, piece contact, touch, together
 
 細
 サイ
 ほそ.い ほそ.る こま.か こま.かい
-get dainty, slender, thin, taper, narrow
+thin, narrow taper, dainty, slender, get
 
 効
 コウ
 き.く ききめ なら.う
-merit, benefit efficiency, efficacy,
+efficiency, benefit merit, efficacy,
 
 丸
 ガン マル.
 まる まる.める
-roll up, curl pills, seduce, round, explain -ship, away make month, full, perfection,
+-ship, up, away round, make perfection, pills, seduce, roll curl month, full, explain
 
 湾
 ワン
 いりえ
-bay, inlet gulf,
+gulf, bay, inlet
 
 録
 ロク
@@ -325,12 +325,12 @@ record
 省
 セイ ショウ ハブ.
 かえり.みる
-government ministry, conserve focus,
+ministry, focus, government conserve
 
 橋 旧
 キュウ キョウ ハ
 ふる.い もと
-bridge times, things, former, friend, ex- old
+old times, things, friend, former, ex- bridge
 
 岸
 ガン キ
@@ -338,11 +338,11 @@ beach
 
 周
 シュウ マワ.
-lap circumference, circuit,
+circumference, circuit, lap
 
 材
 ザ
-wood, talent log, lumber, timber,
+wood, log, timber, talent lumber,
 
 戸
 コ
@@ -359,21 +359,21 @@ ticket
 編
 ヘン
 あ.む -あ.み
-of editing, plait, completed part book twist, compilation, knit, poem, braid, a
+twist, part book braid, a knit, editing, of poem, compilation, completed plait,
 
 捜
 ソウ シュ シュウ
 さが.す
-locate search, for, look
+for, look locate search,
 
 竹
 チク タ
 bamboo
 
-超 並
+並 超
 チョウ コ. ヘイ ホウ ナラ.ビ
 こ.える な.み なら.べる なら.ぶ
-transcend, and, up, ultra- with, rival, line equal besides, as, row, well super-, rank as
+well up, ultra- equal line rival, row, super-, transcend, with, and, as as, rank besides,
 
 療
 リョウ
@@ -382,7 +382,7 @@ heal, cure
 採
 サイ
 と.る
-take fetch, take, up pick,
+take take, fetch, up pick,
 
 森
 シン モ
@@ -391,16 +391,16 @@ forest, woods
 競
 キョウ ケイ セ.
 きそ.う
-race emulate, with, auction, sell compete bout, at bid, contest,
+bout, bid, at contest, auction, race sell emulate, compete with,
 
 介
 カ
-shellfish, jammed oneself mediate, with in, concern
+oneself jammed in, concern with mediate, shellfish,
 
 根
 コン
 ね -ね
-radical, root, head (pimple)
+head radical, root, (pimple)
 
 販
 ハン
@@ -408,21 +408,21 @@ sell, trade marketing,
 
 歴
 レキ レッキ
-curriculum, of continuation, time passage
+continuation, time curriculum, passage of
 
 将
 ショウ ソウ モッ
 まさ.に はた まさ ひきい.る
-again, leader, and commander, from soon, on, just or, general, admiral, now about
+again, or, from about leader, and general, on, commander, just soon, now admiral,
 
 幅
 フク
 はば
-hanging scroll, width
+width scroll, hanging
 
 般
 ハン
-all carrier, carry,
+carry, carrier, all
 
 貿
 ボウ
@@ -430,25 +430,25 @@ exchange trade,
 
 講
 コウ
-lecture, club, association
+club, association lecture,
 
 林
 リン ハヤ
-forest grove,
+grove, forest
 
 装
 ソウ ショウ
 よそお.う よそお.い
-disguise, profess pretend, attire, dress,
+profess pretend, disguise, dress, attire,
 
 諸
 ショ
 もろ
-various, many, several, together
+various, many, together several,
 
 劇
 ゲキ
-drama, play
+play drama,
 
 河
 カ カ
@@ -456,7 +456,7 @@ river
 
 航
 コ
-cruise, sail, fly navigate,
+sail, navigate, fly cruise,
 
 鉄
 テツ クロガ
@@ -465,45 +465,45 @@ iron
 児
 ジ ニ ゲイ -ッ
 こ -こ
-of babe, newborn young child, animals
+child, newborn babe, animals of young
 
 禁
 キン
-ban, prohibition, forbid
+forbid ban, prohibition,
 
 印
 イン
 しるし -じるし しる.す
-mark, seal, trademark, imprint, souvenir, symbol, evidence, India stamp, emblem,
+India trademark, souvenir, emblem, stamp, mark, imprint, evidence, seal, symbol,
 
 逆
 ギャク ゲキ
 さか さか.さ さか.らう
-wicked reverse, opposite, inverted,
+inverted, wicked reverse, opposite,
 
-換 久 短
+短 換 久
 カン キュウ ク ヒサ.シ タン
 か.える -か.える か.わる みじか.い
-interchange, time, defect, point story short, change? period, brevity, long weak fault, charge, old
+interchange, old short, period, fault, change? point weak charge, story brevity, time, long defect,
 
 油
 ユ ユウ
 あぶら
-fat oil,
+oil, fat
 
 暴
 ボウ バク
 あば.く あば.れる
-outburst, violence, rave, cruelty, outrage force, fret,
+outburst, force, violence, rave, fret, outrage cruelty,
 
 輪
 リン
-for circle, counter and wheels wheel, link, flowers loop, ring,
+loop, for counter flowers wheels wheel, ring, link, and circle,
 
 占
 セン ウラナ.
 し.める
-have, get, forecasting, take hold, occupy, divining, fortune-telling,
+divining, occupy, forecasting, have, take get, fortune-telling, hold,
 
 植
 ショク ウ.ワ
@@ -513,15 +513,15 @@ plant
 清
 セイ ショウ シン キヨ.メ
 きよ.い きよ.まる
-exorcise, pure, cleanse, dynasty purify, Manchu
+dynasty exorcise, Manchu pure, purify, cleanse,
 
 倍
 バ
-twice, double, fold times,
+times, double, fold twice,
 
 均
 キン ナラ.
-average level,
+level, average
 
 億
 オ
@@ -530,31 +530,31 @@ hundred million,
 圧
 アツ エン オウ
 お.す へ.す おさ.える お.さえる
-dominate oppress, overwhelm, push, pressure,
+pressure, overwhelm, dominate push, oppress,
 
 芸
 ゲイ ウン ワ
 う.える のり
-stunt trick, acting, art, craft, technique, performance,
+craft, acting, technique, trick, stunt art, performance,
 
 署
 ショ
-police station signature, govt office,
+govt office, police signature, station
 
 伸
 シン ノ.
 の.びる の.ばす の.べる
-extend, increase lengthen, expand, stretch,
+increase stretch, lengthen, expand, extend,
 
 停
 テイ
 と.める と.まる
-halt, stopping
+stopping halt,
 
 爆
 バク
 は.ぜる
-bomb, open, burst split pop,
+pop, open, split bomb, burst
 
 陸
 リク ロク オ
@@ -567,12 +567,12 @@ ball jewel,
 
 波
 ハ ナ
-billows, Poland waves,
+waves, billows, Poland
 
 帯
 タイ オ
 お.びる
-zone, belt, sash, region obi,
+sash, belt, zone, region obi,
 
 延
 エン ノ.バ
@@ -582,41 +582,41 @@ stretching prolong,
 羽
 ウ ハ
 は わ
-for rabbits counter feathers, birds,
+for counter feathers, rabbits birds,
 
 固
 コ
 かた.める かた.まる かた.まり かた.い
-harden, set, clot, curdle
+set, clot, harden, curdle
 
 則
 ソク ノット.
-based rule, model on, after follow,
+model based follow, after on, rule,
 
 乱
 ラン ロン ワタ.
 みだ.れる みだ.る みだ.す みだ おさ.める
-riot, disturb war, disorder,
+disorder, disturb riot, war,
 
 普
 フ アマネ
 あまね.く
-Prussia wide(ly), universal, generally,
+generally, wide(ly), Prussia universal,
 
 測
 ソク
 はか.る
-plan, scheme, fathom, measure
+fathom, measure scheme, plan,
 
 豊
 ホウ ブ ト
 ゆた.か
-rich excellent, bountiful,
+excellent, rich bountiful,
 
 厚
 コウ ア
 あつ.い
-heavy, cordial, thick, kind, brazen, shameless rich,
+rich, kind, shameless brazen, thick, cordial, heavy,
 
 齢
 レイ
@@ -626,26 +626,26 @@ age
 囲
 イ
 かこ.む かこ.う かこ.い
-surround, preserve, keep besiege, store, enclosure, encircle, paling,
+paling, store, encircle, keep preserve, surround, enclosure, besiege,
 
 卒
 ソツ シュツ
 そっ.する お.える お.わる ついに にわか
-graduate, private, soldier, die
+die private, soldier, graduate,
 
 略
 リャク
 ほぼ おか.す おさ.める はかりごと はか.る はぶ.く りゃく.す りゃく.する
-omission, shorten, capture, outline, abbreviation, plunder
+omission, outline, capture, plunder abbreviation, shorten,
 
 承
 ショウ ウ.ケ
 うけたまわ .る
-be hear, receive informed, acquiesce, to, listen
+informed, acquiesce, hear, listen be to, receive
 
 順
 ジュ
-docility, occasion order, obey, right, turn,
+order, right, occasion turn, docility, obey,
 
 岩
 ガン
@@ -655,7 +655,7 @@ rock, boulder, cliff
 練
 レン ネ.
 ね.る
-practice, polish, drill, train, refine gloss,
+polish, drill, train, practice, refine gloss,
 
 軽
 ケイ
@@ -669,7 +669,7 @@ complete, finish
 庁
 チョウ テイ
 やくしょ
-government office
+office government
 
 城
 ジョウ シ
@@ -677,44 +677,44 @@ castle
 
 患
 カン ワズラ.
-disease, suffer be afflicted, from, ill
+suffer from, ill disease, be afflicted,
 
 層
 ソウ
-floor social stratum, story, layer, class,
+layer, social stratum, story, floor class,
 
 版
 ハン
-block, printing label plate, impression, edition,
+plate, block, printing edition, label impression,
 
 令
 レ
-orders, laws, decree ancient command,
+decree ancient command, laws, orders,
 
 角
 カク ツ
 かど
-corner, angle, square, antlers horn,
+angle, square, antlers horn, corner,
 
 絡
 ラク
 から.む から.まる
-get caught in coil entwine, around,
+caught around, in coil entwine, get
 
 損
 ソン
 そこ.なう そこな.う -そこ.なう そこ.ねる -そこ.ねる
-loss, injure disadvantage, hurt, damage,
+disadvantage, damage, injure loss, hurt,
 
 募
 ボ
 つの.る
-campaign, violent (contributions), gather grow recruit, enlist,
+(contributions), enlist, gather recruit, violent campaign, grow
 
 裏
 リ
 うら
-reverse, sole, wrong side palm, amidst, inside, lining, in, rear, back,
+back, rear, in, amidst, palm, inside, side wrong reverse, sole, lining,
 
 仏
 ブツ フツ
@@ -723,29 +723,29 @@ France Buddha, the dead,
 
 績
 セ
-exploits, unreeling cocoons
+exploits, cocoons unreeling
 
 築
 チク キズ.
-construct fabricate, build,
+build, fabricate, construct
 
 貨
 カ
-property freight, goods,
+freight, property goods,
 
 混
 コン
 ま.じる -ま.じり ま.ざる ま.ぜる こ.む
-blend, confuse mix,
+mix, blend, confuse
 
 昇
 ショウ ノボ.
-up rise
+rise up
 
 池
 チ
 いけ
-pool, pond, cistern, reservoir
+pool, pond, reservoir cistern,
 
 血
 ケツ
@@ -763,47 +763,47 @@ seasons
 星
 セイ ショウ
 ほし -ぼし
-spot, star, mark dot,
+mark star, spot, dot,
 
 永
 エイ ナガ.
-eternity, lengthy long,
+long, eternity, lengthy
 
 著
 チョ チャク
 あらわ.す いちじる.しい
-for renowned, remarkable, counter finish on, don, put wear, phenomenal, publish, arrival, suit (race), write,
+for arrival, counter phenomenal, publish, remarkable, wear, write, renowned, on, put don, finish suit (race),
 
 誌
 シ
-records document,
+document, records
 
 庫
 コ ク
 くら
-warehouse, storehouse
+storehouse warehouse,
 
 刊
 カン
-carve, publish, engrave
+publish, engrave carve,
 
 像
 ゾ
-statue, picture, image, portrait figure,
+image, portrait picture, statue, figure,
 
 香
 コウ キョウ カオ.
 か かお.り
-perfume smell, incense,
+perfume incense, smell,
 
 坂
 ハン サ
-slope, hill incline,
+incline, hill slope,
 
 底
 テイ
 そこ
-depth, sole, base, kind, bottom, price, sort bottom
+bottom, kind, bottom sort depth, sole, price, base,
 
 布
 フ ヌ
@@ -812,53 +812,53 @@ cloth linen,
 寺
 ジ
 てら
-Buddhist temple
+temple Buddhist
 
 宇
-house, heaven roof, eaves,
+eaves, house, heaven roof,
 
 巨
 キ
-gigantic, great big, large,
+large, big, gigantic, great
 
 震
 シン
 ふる.う ふる.える
-quiver, tremble, shiver shake, quake,
+tremble, shake, quiver, quake, shiver
 
 希
 キ ケ マ
-Greece, dilute (acid), few, beg, request, phenomenal hope, pray, beseech, rare,
+Greece, few, rare, dilute (acid), beseech, phenomenal request, hope, beg, pray,
 
 触
 ショク
 ふ.れる さわ.る さわ
-proclaim, hit, feel, contact, announce, conflict touch,
+announce, hit, proclaim, contact, conflict feel, touch,
 
 依
 イ エ ヨ.
-therefore, consequently, on, to due reliant, depend
+consequently, reliant, to therefore, on, depend due
 
 籍
 セキ
-enroll, register, domiciliary membership
+enroll, domiciliary register, membership
 
 汚
 オ
 けが.す けが.れる けが.らわしい よご.す よご.れる きたな.い
-dirty, defile pollute, rape, disgrace,
+disgrace, dirty, pollute, rape, defile
 
 枚
 マイ バ
-for counter sheet thin flat of..., sheets objects or
+for objects counter flat sheet sheets thin of..., or
 
 複
 フク
-compound, double, duplicate, multiple
+compound, multiple double, duplicate,
 
 郵
 ユウ
-stagecoach stop mail,
+stop stagecoach mail,
 
 仲
 チュウ ナ
@@ -867,51 +867,51 @@ relationship go-between,
 栄
 エイ ヨウ
 さか.える は.え -ば.え は.える
-flourish, honor, glory, prosperity, splendor
+glory, splendor honor, prosperity, flourish,
 
 札
 サツ フ
-for bonds, placard, counter tag, money, bid paper
+for tag, counter bonds, placard, paper bid money,
 
 板
 ハン バン
 いた
-plank, stage plate, board,
+plate, stage plank, board,
 
 骨
 コツ
 ほね
-bone, skeleton, remains, frame
+bone, remains, frame skeleton,
 
 傾
 ケイ
 かたむ.く かたむ.ける かたぶ.く かた.げる かし.げる
-tilt, sink, lean, ruin, wane, bias trend, incline,
+trend, tilt, lean, ruin, bias wane, incline, sink,
 
 届
 カイ
 とど.ける -とど.け とど.く
-arrive, deliver, notify, report, forward reach,
+notify, forward report, reach, arrive, deliver,
 
 巻
 カン ケン
 ま.く まき ま.き
-roll up, wind for counter part, scroll, tie, book scrolls) texts coil, (or book, volume,
+for up, counter texts book (or roll wind scrolls) volume, scroll, coil, tie, part, book,
 
 燃
 ネン
 も.える も.やす も.す
-glow blaze, burn,
+glow burn, blaze,
 
 跡
 セキ
 あと
-tracks, print, impression mark,
+print, mark, impression tracks,
 
 包
 ホウ クル.
 つつ.む
-up, wrap, cover, pack conceal
+up, conceal cover, pack wrap,
 
 駐
 チュウ
@@ -924,63 +924,63 @@ weak, frail
 
 紹
 ショ
-introduce, help inherit,
+help introduce, inherit,
 
 雇
 コ
 やと.う
 hire employ,
 
-預 替
+替 預
 タイ カ.ワ ヨ
 か.える か.え- あず.ける あず.かる
-with, substitute, custody, deposit, exchange, spare, entrust to per- leave
+custody, exchange, deposit, leave to substitute, spare, per- with, entrust
 
 焼
 ショウ ヤ.ケ
 や.く や.き や.き- -や.き
-burning bake,
+bake, burning
 
 簡
 カン
-brevity simplicity,
+simplicity, brevity
 
 章
 ショ
-badge, composition, design poem, chapter,
+design badge, composition, poem, chapter,
 
 臓
 ゾウ
 はらわた
-bowels viscera, entrails,
+viscera, entrails, bowels
 
 律
 リツ リチ レ
-regulation, rhythm, gauge, control law,
+control rhythm, gauge, law, regulation,
 
 贈
 ゾウ ソウ
 おく.る
-something award presents, send, on, give confer to, presenting
+presents, presenting something give on, award confer to, send,
 
 照
 ショウ テ.レ
 て.る て.らす
-shine, illuminate, compare, bashful
+shine, compare, illuminate, bashful
 
 薄
 ハク
 うす.い うす- -うす うす.める うす.まる うす.らぐ うす.ら- うす.れる すすき
-(tea) weak thin, dilute,
+(tea) weak dilute, thin,
 
 群
 グン ムラ.ガ
 む.れる む.れ むら
-flock, crowd, group, cluster swarm, herd,
+group, flock, cluster crowd, swarm, herd,
 
 秒
 ビョウ
-minute) second
+second minute)
 
 奥
 オウ オク ク
@@ -990,21 +990,21 @@ interior heart,
 詰
 キツ キチ ツ.
 つ.める つ.め -づ.め つ.まる
-packed, rebuke, reprove, close, blame pressed,
+blame packed, close, reprove, rebuke, pressed,
 
 双
 ソウ フタ
 ふた たぐい ならぶ
-for counter pairs comparison, set, pair,
+for comparison, counter pair, pairs set,
 
 刺
 シ
 さ.す さ.さる さ.し さし とげ
-calling sting, prick, pierce, stab, card thorn,
+card prick, calling stab, sting, pierce, thorn,
 
 純
 ジュ
-net (profit) purity, innocence, genuine,
+innocence, genuine, (profit) net purity,
 
 翌
 ヨク
@@ -1012,21 +1012,21 @@ following, the next
 
 快
 カイ ココロヨ.
-comfortable cheerful, pleasant, agreeable,
+cheerful, agreeable, pleasant, comfortable
 
 片
 ヘン
 かた- かた
-sheet leaf, one-sided,
+leaf, one-sided, sheet
 
 敬
 ケイ キョウ ウヤマ.
-respect, honor, awe, revere
+respect, revere awe, honor,
 
 悩
 ノウ
 なや.む なや.ます なや.ましい なやみ
-worry, illness trouble, in distress, pain,
+trouble, illness in worry, pain, distress,
 
 泉
 セン イズ
@@ -1034,77 +1034,77 @@ fountain spring,
 
 皮
 けがわ
-hide, pelt, leather skin,
+pelt, hide, skin, leather
 
 漁
 ギョ リョウ
 あさ.る
-fishing, fishery
+fishery fishing,
 
 荒
 コウ スサ.
 あら.い あら- あ.れる あ.らす -あ.らし
-laid rough, waste, wild rude,
+laid rude, rough, waste, wild
 
 貯
 チョ
 た.める たくわ.える
-lay wear in, store, mustache keep, savings,
+lay store, in, mustache savings, keep, wear
 
 硬
 コウ
 かた.い
-hard stiff,
+stiff, hard
 
 埋
 マイ
 う.める う.まる う.もれる うず.める うず.まる い.ける
-bury, up, embedded be filled
+filled up, embedded bury, be
 
 柱
 チュウ
 はしら
-cylinder, support pillar, post,
+post, cylinder, support pillar,
 
 祭
 サイ
 まつ.る まつ.り まつり
-worship celebrate, prayers, ritual, deify, enshrine, offer
+ritual, celebrate, offer prayers, enshrine, worship deify,
 
 袋
 タイ ダイ フク
-pouch bag, sack,
+sack, pouch bag,
 
 筆
 ヒツ フ
-brush, writing, writing handwriting painting
+writing writing, handwriting painting brush,
 
 訓
 クン キン クン.ズ
 おし.える よ.む
-Japanese read explanation, instruction, character reading,
+character explanation, reading, instruction, read Japanese
 
 浴
 ヨク ア.ビセ
 あ.びる
-bask be with, favored bathe, in
+favored in bathe, bask be with,
 
 童
 ドウ ワラ
-child juvenile,
+juvenile, child
 
 宝
 ホウ タカ
-treasure, wealth, valuables
+wealth, valuables treasure,
 
 封
 フウ ホウ
-closing seal,
+seal, closing
 
 胸
 キョウ
 むね むな-
-heart, breast, bosom, feelings chest,
+feelings heart, breast, chest, bosom,
 
 砂
 サ シャ ス
@@ -1117,7 +1117,7 @@ salt
 
 賢
 ケン カシコ.
-wisdom, cleverness wise, intelligent,
+wise, cleverness intelligent, wisdom,
 
 腕
 ワン
@@ -1127,16 +1127,16 @@ talent arm, ability,
 兆
 チョウ
 きざ.す きざ.し
-omen, portent, sign, trillion, symptoms
+trillion, omen, sign, portent, symptoms
 
 床
 ショウ
 とこ ゆか
-tatami bed, padding, floor,
+tatami floor, padding, bed,
 
 毛
 モウ
-down hair, fur, feather,
+hair, down feather, fur,
 
 緑
 リョク ロク
@@ -1146,34 +1146,34 @@ green
 尊
 ソン トウト.
 たっと.い とうと.い たっと.ぶ
-valuable, precious, exalted revered, noble,
+exalted revered, precious, valuable, noble,
 
 祝
 シュク シュウ イワ.
-congratulate celebrate,
+celebrate, congratulate
 
 柔
 ジュウ ニュウ ヤワ.
 やわ.らか やわ.らかい やわ
-tender, softness gentleness, weakness,
+weakness, gentleness, softness tender,
 
 殿
 デン テン -ド
 との
-hall, palace, lord temple, Mr., mansion,
+lord Mr., palace, temple, hall, mansion,
 
 濃
 ノウ コ.
-thick, undiluted dark, concentrated,
+undiluted thick, dark, concentrated,
 
 液
 エキ
-sap, fluid, juice, secretion liquid,
+sap, liquid, juice, secretion fluid,
 
 衣
 イ エ
 ころも きぬ -ぎ
-dressing garment, clothes,
+garment, clothes, dressing
 
 肩
 ケン
@@ -1183,20 +1183,20 @@ shoulder
 零
 レイ
 ぜろ こぼ.す こぼ.れる
-nothing, spill, overflow, zero, cipher
+cipher spill, overflow, zero, nothing,
 
 幼
 ヨウ オサナ.
-infancy, childhood
+childhood infancy,
 
 荷
 カ
-baggage, bear (a load, freight cargo, gun), shoulder shoulder-pole burden),
+gun), (a shoulder shoulder-pole burden), baggage, freight cargo, load, bear
 
 泊
 ハク ト.メ
 と.まる
-at, anchor, ride stay overnight, put at up 3-day
+at, 3-day stay at overnight, anchor, ride up put
 
 黄
 コウ オウ
@@ -1206,19 +1206,19 @@ yellow
 甘
 カン ウマ.
 あま.い あま.える あま.やかす
-be pamper, sweet, coax, sugary content,
+sweet, sugary coax, be pamper, content,
 
 臣
 シン ジ
-subject retainer,
+retainer, subject
 
 浅
 セン アサ.
-frivolous, superficial, wretched, shallow, shameful
+shallow, superficial, frivolous, shameful wretched,
 
 掃
 ソウ シュ ハ.
-sweep, brush
+brush sweep,
 
 雲
 ウン -グ
@@ -1227,12 +1227,12 @@ cloud
 
 掘
 クツ ホ.
-delve, excavate dig,
+excavate delve, dig,
 
 捨
 シャ
 す.てる
-abandon, resign, discard, throw away, reject, sacrifice
+abandon, reject, throw away, discard, resign, sacrifice
 
 軟
 ナン
@@ -1242,12 +1242,12 @@ soft
 沈
 チン ジン シズ.メ
 しず.む
-be subside, depressed, sink, aloes submerged,
+aloes subside, submerged, be sink, depressed,
 
 凍
 トウ シ.ミ
 こお.る こご.える こご.る い.てる
-congeal, frozen, refrigerate
+frozen, refrigerate congeal,
 
 乳
 ニュウ
@@ -1257,7 +1257,7 @@ breasts milk,
 恋
 レン
 こ.う こい こい.しい
-yearn for, in love, miss, romance, darling
+love, miss, in romance, darling for, yearn
 
 紅
 コウ ク アカ.
@@ -1266,49 +1266,49 @@ crimson, red deep
 
 郊
 コウ
-rural area suburbs, outskirts,
+suburbs, outskirts, area rural
 
 腰
 ヨウ コ
-low hips, loins, waist, wainscoting
+waist, hips, loins, low wainscoting
 
 炭
 タン
 すみ
-coal charcoal,
+charcoal, coal
 
 踊
 ヨウ
 おど.る
-dance, jump, skip leap,
+jump, skip dance, leap,
 
 冊
 サツ サク
 ふみ
-tome, for counter volume books,
+for counter volume books, tome,
 
 勇
 ユウ イサ.
-up, spirits, be heroism courage, bravery, in cheer high
+up, heroism in high spirits, cheer courage, be bravery,
 
 械
 カイ
 かせ
-machine, fetter, contraption, instrument
+fetter, machine, contraption, instrument
 
 菜
 サイ
-side dish, greens vegetable,
+greens vegetable, dish, side
 
 珍
 チン タカ
 めずら.しい
-curious, strange rare,
+rare, strange curious,
 
 卵
 ラン
 たまご
-ovum, roe spawn, egg,
+spawn, roe ovum, egg,
 
 湖
 コ ミズウ
@@ -1316,16 +1316,16 @@ lake
 
 喫
 キツ
-(a blow) consume, receive eat, drink, smoke,
+(a consume, eat, blow) smoke, drink, receive
 
 干
 カン ヒ.
 ほ.す ほ.し- -ぼ.し
-dry, parch
+parch dry,
 
 虫
 チュウ キ ム
-insect, bug, temper
+bug, insect, temper
 
 刷
 サツ
@@ -1335,27 +1335,27 @@ printing, print
 湯
 トウ
 ゆ
-spring water, hot bath,
+bath, spring water, hot
 
 溶
 ヨウ
 と.ける と.かす と.く
-melt, dissolve, thaw
+dissolve, melt, thaw
 
 鉱
 コウ
 あらがね
-mineral, ore
+ore mineral,
 
 涙
 ルイ レイ
 なみだ
-sympathy tears,
+tears, sympathy
 
 匹
 ヒツ
 ひき
-roll for of counter head, cloth equal, animals, small
+for counter equal, animals, head, roll of cloth small
 
 孫
 ソン マ
@@ -1363,49 +1363,49 @@ grandchild, descendants
 
 鋭
 エイ スルド.
-sharp, violent sharpness, weapon, edge, pointed,
+violent weapon, edge, sharpness, pointed, sharp,
 
 枝
 シ エ
-twig, branch, bough, limb
+limb bough, twig, branch,
 
 塗
 ト
 ぬ.る ぬ.り まみ.れる
-daub, smear, plaster, coating paint,
+daub, coating paint, plaster, smear,
 
 軒
 ケン
 のき
-for houses, counter eaves flats,
+for counter flats, eaves houses,
 
 毒
 ドク
-germ, injury, harm, poison, spite virus, venom,
+germ, venom, virus, poison, spite harm, injury,
 
 叫
 キョウ
 さけ.ぶ
-yell shout, exclaim,
+exclaim, yell shout,
 
 拝
 ハイ
 おが.む おろが.む
-pray worship, to adore,
+to pray adore, worship,
 
 氷
 ヒョウ コオ.
 こおり ひ
-ice, hail, icicle, freeze, congeal
+freeze, hail, congeal ice, icicle,
 
 乾
 カン ケン
 かわ.く かわ.かす ほ.す ひ.る いぬい
-up, dessicate, emperor drink drought, dry, heaven,
+up, heaven, drought, drink emperor dry, dessicate,
 
 棒
 ボウ
-pole, stick, rod, club, line cane,
+stick, pole, rod, line club, cane,
 
 祈
 キ イノ.
@@ -1414,12 +1414,12 @@ pray, wish
 拾
 シュウ ジュウ
 ひろ.う
-up, find, ten foot, pick on gather, go
+gather, up, go foot, ten on pick find,
 
 粉
 フン デシメートル
 こ こな
-powder, dust flour,
+dust powder, flour,
 
 糸
 シ
@@ -1433,7 +1433,7 @@ cotton
 汗
 カン
 あせ
-sweat, perspire
+perspire sweat,
 
 銅
 ドウ
@@ -1443,57 +1443,57 @@ copper
 湿
 シツ シュウ
 しめ.る しめ.す うるお.う うるお.す
-moist wet, damp,
+damp, wet, moist
 
 瓶
 ビン カ
-flower vial, urn vat, jar, pot, bottle, jug,
+flower jar, urn pot, jug, vat, vial, bottle,
 
 咲
 ショウ -ザ
 さ.く
-blossom, bloom
+bloom blossom,
 
 召
 ショウ
 め.す
-seduce, send ride (cold) on, buy, wear, put in, eat, catch for, drink, call,
+buy, in, seduce, (cold) send call, wear, catch ride on, for, put eat, drink,
 
 缶
 カン カ
-can, container tin
+can, tin container
 
 隻
 セキ
-for of counter ships, vessels, birds, arrows, pair fish, one a
+for one counter pair vessels, a arrows, ships, birds, of fish,
 
 脂
 シ
 あぶら
-tallow, rosin, fat, lard, tar gum, grease,
+fat, tar lard, grease, gum, rosin, tallow,
 
 蒸
 ジョウ セイ
 む.す む.れる む.らす
-get foment, musty sultry, steam, heat,
+steam, sultry, foment, heat, musty get
 
 肌
 キ
 はだ
-texture, grain body, skin,
+grain texture, body, skin,
 
 耕
 コウ タガヤ.
-till, cultivate plow,
+plow, cultivate till,
 
 鈍
 ドン
 にぶ.い にぶ.る にぶ- なま.る なまく.ら
-dull, blunt slow, foolish,
+foolish, slow, dull, blunt
 
 泥
 デイ ナイ デ ニ ド
-be adhere attached mire, mud, to to,
+mire, to adhere mud, be attached to,
 
 隅
 グウ
@@ -1503,17 +1503,17 @@ corner, nook
 灯
 トウ
 ひ ほ- ともしび とも.す あかり
-for lights counter lamp, light, a
+for counter a lights lamp, light,
 
 辛
 シン
 から.い つら.い -づら.い かのと
-acrid bitter, hot, spicy,
+spicy, acrid hot, bitter,
 
 磨
 マ ス.
 みが.く
-polish, scour, grind, brush improve, (teeth)
+improve, grind, scour, (teeth) brush polish,
 
 麦
 バク
@@ -1527,21 +1527,21 @@ surname
 筒
 トウ
 つつ
-sleeve cylinder, gun pipe, tube, barrel,
+tube, sleeve gun cylinder, pipe, barrel,
 
 鼻
 ビ
 はな
-snout nose,
+nose, snout
 
 粒
 リュウ
 つぶ
-for counter grains, particles drop, tiny
+for counter particles grains, tiny drop,
 
 詞
 シ
-of words, part speech, poetry
+words, poetry part speech, of
 
 胃
 イ
@@ -1550,22 +1550,22 @@ paunch, craw crop, stomach,
 畳
 ジョウ チョウ
 たた.む たたみ かさ.なる
-for tatami shut up, counter mats, with fold, away mat, do
+for up, away counter shut mat, fold, tatami with do mats,
 
 机
 キ
 つくえ
-desk, table
+table desk,
 
 膚
 フ
 はだ
-texture, disposition body, grain, skin,
+texture, disposition skin, grain, body,
 
 濯
 タク
 すす.ぐ ゆす.ぐ
-laundry, pour on, wash, rinse
+rinse laundry, on, wash, pour
 
 塔
 トウ
@@ -1574,12 +1574,12 @@ tower, steeple pagoda,
 沸
 フツ
 わ.く わ.かす
-uproar, breed ferment, seethe, boil,
+seethe, boil, breed uproar, ferment,
 
 灰
 カイ
 はい
-cremate ashes, juice, puckery
+juice, puckery cremate ashes,
 
 菓
 カ
@@ -1588,17 +1588,17 @@ cakes, candy, fruit
 帽
 ボウ モウ
 ずきん おお.う
-cap, headgear
+headgear cap,
 
 枯
 コ
 か.れる か.らす
-up, dry be die, wither, seasoned
+wither, up, be die, seasoned dry
 
 涼
 リョウ マコト
 すず.しい すず.む すず.やか うす.い ひや.す
-nice cool refreshing, and
+refreshing, and cool nice
 
 舟
 シュウ
@@ -1612,7 +1612,7 @@ shellfish
 
 符
 フ
-token, mark, sign, tally, charm
+tally, charm mark, sign, token,
 
 憎
 ゾウ
@@ -1627,16 +1627,16 @@ helping, dish, plate a
 肯
 コウ
 がえんじ.る
-with agreement, comply consent,
+consent, agreement, comply with
 
 燥
 ソウ
 はしゃ.ぐ
-dry up parch,
+parch, dry up
 
 畜
 チク
-and fowl domestic animals livestock,
+livestock, fowl and animals domestic
 
 挟
 キョウ ショウ
@@ -1645,10 +1645,10 @@ between pinch,
 
 曇
 ドン クモ.
-weather, up cloud cloudy
+cloud weather, cloudy up
 
 滴
 テキ
 しずく したた.る
-drip, drop
+drop drip,
 

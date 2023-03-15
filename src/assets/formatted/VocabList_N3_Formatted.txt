@@ -874,7 +874,7 @@ to be drowned, to indulge in
 Congratulations!, an auspicious occasion!
 
 お目に掛かる 思い出
-おめにかかる おもいで
+おもいで おめにかかる
 memories, recollections, reminiscence
 
 主に
@@ -1241,7 +1241,7 @@ conjugation, practical use
 to be sad, to mourn for, to regret
 
 必ずしも
-かならず しも
+しも かならず
 (not) always, (not) necessarily, (not) all, (not) enti rely
 
 かなり
@@ -4577,7 +4577,7 @@ rainy season, rain during the rainy season
 painful, heart-breaking
 
 釣 連れ
-つり つれ
+つれ つり
 companion, company
 
 で
@@ -4650,7 +4650,7 @@ applying
 if at all possible
 
 手品
-てじな できれば
+できれば てじな
 sleight of hand, conjuring trick, magic, juggling
 
 ですから
@@ -5561,7 +5561,7 @@ needle, hand (e.g. clock)
 to stick, to paste
 
 番
-ばん バン
+バン ばん
 bun, van (caravan), VAN (value-added network)
 
 範囲

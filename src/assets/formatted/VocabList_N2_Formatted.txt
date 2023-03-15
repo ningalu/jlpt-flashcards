@@ -295,7 +295,7 @@ once, for a moment, one morning, temporarily
 いってい
 fixed, settled, definite
 
-いっていらっしゃい いってらっしゃい いつのまにか いってまいります
+いってらっしゃい いってまいります いっていらっしゃい いつのまにか
 before one knows, unnoticed, unawares
 
 移転
@@ -602,7 +602,7 @@ main street
 automation
 
 大凡
-オーバーコート おおよそ
+おおよそ オーバーコート
 about, roughly, as a rule, approximately
 
 お帰り
@@ -639,7 +639,7 @@ outdoors
 part of word written in kana
 
 怠る
-おげんきで おこたる
+おこたる おげんきで
 to neglect, to be off guard, to be feeling better
 
 押える
@@ -765,7 +765,7 @@ unexpected, casual
 to be under impression that, to be convinced that
 
 思いっ切り 思い付く
-おもいっきり おもいつく
+おもいつく おもいっきり
 to think of, to hit upon
 
 重たい
@@ -1286,7 +1286,7 @@ ventilation
 deep emotion, impression, inspiration
 
 関西 鑑賞
-かんしょう かんさい
+かんさい かんしょう
 appreciation
 
 感ずる
@@ -1664,7 +1664,7 @@ to be engulfed in, to be enveloped by, to wrap up
 repeatedly, sincerely, earnestly
 
 咥える 郡
-ぐん くわえる
+くわえる ぐん
 country, district
 
 稽古
@@ -2094,7 +2094,7 @@ to cross, to pass, to tide over
 to rub, to chafe, to file, to frost (glass), to strike (match)
 
 個体
-ごぞんじですか こたい
+こたい ごぞんじですか
 an individual
 
 御馳走
@@ -2867,7 +2867,7 @@ digestion
 grade school student
 
 将棋
-しょうぎ しょうがない
+しょうがない しょうぎ
 Japanese chess
 
 蒸気
@@ -3172,7 +3172,7 @@ Wednesday
 impudent, shameless
 
 末っ子
-ずうっと すえっこ
+すえっこ ずうっと
 youngest child
 
 スカーフ
@@ -3289,7 +3289,7 @@ slide
 to put off, to delay
 
 掏摸
-ずらり すり
+すり ずらり
 pickpocket
 
 刷る
@@ -3304,7 +3304,7 @@ sly, cunning
 to pass by one another, to disagree
 
 滑れる 寸法
-ずれる すんぽう
+すんぽう ずれる
 measurement, size, dimension
 
 姓
@@ -3476,7 +3476,7 @@ despotism, autocracy
 month before last
 
 先々週 先祖
-せんせんしゅう せんぞ
+せんぞ せんせんしゅう
 ancestor
 
 先端
@@ -3614,7 +3614,7 @@ to be furnished with
 そのうえ
 in addition, furthermore
 
-そのため そのころ
+そのころ そのため
 hence, for that reason
 
 そのほか
@@ -3649,7 +3649,7 @@ abacus
 (hum) to know
 
 存ずる 損得
-ぞんずる そんとく
+そんとく ぞんずる
 loss and gain, advantage and disadvantage
 
 田ぼ
@@ -4039,7 +4039,7 @@ top, summit
 eldest son
 
 長方形
-ちょうほ うけい
+うけい ちょうほ
 rectangle, oblong
 
 調味料
@@ -4117,7 +4117,7 @@ currency
 commuting to work
 
 通ずる 通知
-つうずる つうち
+つうち つうずる
 notice, notification
 
 通帳
@@ -4822,7 +4822,7 @@ to hate, to detest
 odious, hateful
 
 濁る
-にごる にこにこ
+にこにこ にごる
 to become muddy, to get impure
 
 虹
@@ -5075,7 +5075,7 @@ to begin with, first of all
 How do you do?, I am glad to meet you
 
 斜 外れる
-はす はずれる
+はずれる はす
 to be disconnected, to get out of place, to be off, to be out (e.g. of gear)
 
 パターン
@@ -6504,7 +6504,7 @@ landlord
 also, as I thought, still, in spite of, absolutely, of c ourse
 
 破く 破れる
-やぶれる やぶく
+やぶく やぶれる
 to get torn, to wear out
 
 やむをえない
@@ -6755,7 +6755,7 @@ fisherman
 consul
 
 領収
-ゅう りょうし
+りょうし ゅう
 receipt, voucher
 
 臨時

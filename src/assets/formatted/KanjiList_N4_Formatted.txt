@@ -1,17 +1,17 @@
 会
 カイ エ アツ.マ
 あ.う あ.わせる
-association, interview, meet, party, join meeting,
+party, join meeting, interview, association, meet,
 
 同
 ドウ
 おな.じ
-equal agree, same,
+agree, equal same,
 
 事
 ジ ズ ツカ.エ
 こと つか.う
-possibly thing, business, matter, reason, fact,
+matter, fact, business, possibly thing, reason,
 
 自
 ジ シ オノ.ズ
@@ -20,30 +20,30 @@ oneself
 
 社
 シャ ヤシ
-association, firm, shrine company, office,
+company, shrine office, firm, association,
 
 発
 ハツ ホツ ハナ.
 た.つ あば.く おこ.る つか.わす
-emit, start departure, discharge, publish, disclose from,
+from, discharge, disclose start publish, emit, departure,
 
 者
 シャ
 もの
-person someone,
+someone, person
 
 地
 チ
-earth ground,
+ground, earth
 
 業
 ギョウ ゴウ ワ
-business, arts, vocation, performance
+vocation, arts, performance business,
 
 方
 ホウ -ガ
 かた -かた
-person, alternative direction,
+alternative direction, person,
 
 新
 シン
@@ -53,11 +53,11 @@ new
 場
 ジョウ チョウ
 ば
-location, place
+place location,
 
 員
 イ
-number, the in charge member, one employee,
+one employee, the in charge number, member,
 
 立
 リツ リュウ リットル -ダ.テ
@@ -67,7 +67,7 @@ stand up
 開
 カイ ア.ケ
 ひら.く ひら.き -びら.き ひら.ける あ.く
-open, unfold, unseal
+unseal unfold, open,
 
 手
 シュ ズ
@@ -76,7 +76,7 @@ hand
 
 力
 リョク リキ リイ チカ
-up, bear exert strong, strain, power,
+up, power, strain, exert strong, bear
 
 問
 モン ト
@@ -86,7 +86,7 @@ ask, problem question,
 代
 ダイ タイ シ
 か.わる かわ.る かわ.り -がわ.り か.える よ
-change, convert, period, substitute, age, fee rate, charge, replace, generation,
+period, convert, change, substitute, generation, rate, charge, fee age, replace,
 
 明
 メイ ミョウ ミン ア.カ
@@ -96,7 +96,7 @@ bright, light
 動
 ドウ ウゴ.カ
 うご.く
-change, shake move, motion, shift, confusion,
+shake shift, change, move, confusion, motion,
 
 京
 キョウ ケイ キン ミヤ
@@ -105,12 +105,12 @@ capital,
 目
 モク ボク
 め -め ま
-care, eye, experience, look, insight, favor class,
+experience, favor eye, look, care, insight, class,
 
 通
 ツウ ツ カヨ.
 とお.る とお.り -とお.り -どお.り とお.す とお.し -どお.し
-for through, pass counter avenue, letters commute, traffic,
+for counter through, traffic, avenue, letters pass commute,
 
 言
 ゲン ゴン コ
@@ -119,46 +119,46 @@ say
 
 理
 リ コトワ
-arrangement, logic, justice, truth reason,
+arrangement, truth justice, reason, logic,
 
 体
 タイ テイ カタ
 からだ
-for images counter body, substance, object, reality,
+body, for counter reality, images object, substance,
 
 田
 デン
-rice paddy field,
+field, paddy rice
 
 主
 シュ ス シュウ アル
 ぬし おも
-thing, main principal chief, master, lord,
+chief, principal lord, master, thing, main
 
 題
 ダイ
-topic, subject
+subject topic,
 
 意
-heart, desire, care, taste, idea, liking mind, thought,
+idea, mind, liking taste, desire, heart, care, thought,
 
 不
 フ ブ
-bad, negative, ugly, clumsy non-,
+non-, bad, ugly, negative, clumsy
 
 作
 サク サ -ヅク.
 つく.る つく.り
-make, build prepare, production,
+prepare, make, build production,
 
 用
 ヨウ モチ.イ
-employ utilize, use, business, service,
+service, utilize, use, business, employ
 
 度
 ド ト タク -タ.
 たび
-time, for occurrences counter degrees, occurrence,
+for counter occurrence, occurrences time, degrees,
 
 強
 キョウ ゴウ コワ.
@@ -167,21 +167,21 @@ strong
 
 公
 コウ ク オオヤ
-public, official, governmental prince,
+prince, official, governmental public,
 
 持
 ジ モ.テ
 も.つ -も.ち
-have hold,
+hold, have
 
 野
 ヤ ショ
 の の
-field, plains, life rustic, civilian
+civilian life rustic, field, plains,
 
 以
 イ モッ.
-by view of, because, means compared with in
+means of, in view because, with compared by
 
 思
 シ
@@ -191,17 +191,17 @@ think
 家
 カ ケ ウ
 いえ や
-house, home
+home house,
 
 世
 セイ セ ソウ サンジュ
 よ
-world, society, public generation,
+society, world, public generation,
 
 多
 タ
 おお.い まさ.に まさ.る
-many, much frequent,
+much many, frequent,
 
 正
 セイ ショウ マサ.
@@ -211,15 +211,15 @@ correct, righteous, justice,
 安
 アン ヤス.ラ
 やす.い やす.まる やす
-contented, cheap, peaceful rested, low, relax, quiet,
+rested, relax, contented, low, peaceful quiet, cheap,
 
 院
 イン
-Inst., temple, institution, mansion, school
+institution, school mansion, temple, Inst.,
 
 心
 りっしんべん
-spirit heart, mind,
+mind, spirit heart,
 
 界
 カイ
@@ -228,30 +228,30 @@ world
 教
 キョウ オソ.ワ
 おし.える
-faith, teach, doctrine
+doctrine teach, faith,
 
 文
 ブン モン ア
 ふみ
-literature, plan decoration, figures, art, sentence, style,
+plan sentence, style, literature, art, decoration, figures,
 
 元
 ゲン ガン モ
-time, former beginning, origin
+time, former origin beginning,
 
 重
 ジュウ チョウ オ
 え おも.い おも.り おも.なう かさ.ねる かさ.なる
-up, heavy, of heap -fold pile nest boxes,
+up, boxes, heap -fold of heavy, pile nest
 
 近
 キン コン チカ.
-near, early, akin, tantamount
+near, akin, early, tantamount
 
 考
 コウ カンガ
 かんが .える
-think consider, over
+consider, think over
 
 画
 ガ カク エ カイ
@@ -260,7 +260,7 @@ brush-stroke, picture
 
 海
 カイ ウ
-ocean sea,
+sea, ocean
 
 売
 バイ ウ.レ
@@ -270,26 +270,26 @@ sell
 知
 チ シ.ラセ
 し.る
-know, wisdom
+wisdom know,
 
 道
 ドウ トウ ミ
-teachings road-way, course, district, street, journey, moral,
+teachings moral, journey, district, road-way, course, street,
 
 集
 シュウ ツド.
 あつ.まる あつ.める
-flock meet, swarm, congregate, gather,
+congregate, meet, swarm, flock gather,
 
 別
 ベツ ワ.ケ
 わか.れる
-branch specially extra, off, another, fork, separate, diverge,
+off, diverge, another, extra, branch specially separate, fork,
 
 物
 ブツ モツ
 もの もの-
-object, matter thing,
+thing, object, matter
 
 使
 シ
@@ -299,12 +299,12 @@ use
 品
 ヒン ホン
 しな
-for counter meal refinement, goods, dignity, article, courses
+for counter meal dignity, goods, article, refinement, courses
 
 計
 ケイ ハカ.ラ
 はか.る
-scheme, plan, plot, measure
+plot, measure scheme, plan,
 
 死
 シ
@@ -318,7 +318,7 @@ special
 私
 シ
 わたくし わたし
-private, I, me
+me private, I,
 
 始
 シ ハジ.マ
@@ -327,12 +327,12 @@ begin commence,
 
 朝
 チョウ ア
-dynasty, regime, morning, period, Korea (North) epoch,
+morning, (North) epoch, period, Korea dynasty, regime,
 
 運
 ウン
 はこ.ぶ
-advance carry, transport, lot, destiny, luck, progress, fate,
+carry, progress, transport, lot, fate, advance luck, destiny,
 
 終
 シュウ ツイ.
@@ -342,21 +342,21 @@ finish end,
 台
 ダイ タイ
 うてな われ つかさ
-stand, for counter and vehicles machines pedestal, a
+for machines counter pedestal, stand, a and vehicles
 
 広
 コウ
 ひろ.い ひろ.まる ひろ.める ひろ.がる ひろ.げる
-spacious wide, broad,
+spacious broad, wide,
 
-真 住
+住 真
 ジュウ ヂュウ チュウ -ズ.マ シン マコ
 す.む す.まう ま ま-
-reside, inhabit live, dwell, sect Buddhist true, reality,
+live, sect dwell, reside, true, reality, Buddhist inhabit
 
 有
 ユウ ウ ア.
-have, happen, exist, occur, approx possess,
+possess, have, exist, occur, happen, approx
 
 口
 コウ ク
@@ -371,7 +371,7 @@ few, little
 町
 チョウ
 まち
-town, block, street village,
+block, village, town, street
 
 料
 リョウ
@@ -389,12 +389,12 @@ build
 空
 クウ ムナ.シ
 そら あ.く あ.き あ.ける から す.く す.かす
-sky, empty, vacuum void, vacant,
+vacuum sky, empty, void, vacant,
 
 急
 キュウ
 いそ.ぐ いそ.ぎ
-steep emergency, hurry, sudden,
+hurry, steep emergency, sudden,
 
 止
 シ -サ.
@@ -404,30 +404,30 @@ halt stop,
 送
 ソウ
 おく.る
-send escort,
+escort, send
 
 切
 セツ サイ -ギ.
 き.る -き.る き.り -き.り -ぎ.り き.れる -き.れる き.れ -き.れ
-cutoff, sharp be cut,
+cut, cutoff, sharp be
 
 転
 テン
 ころ.がる ころ.げる ころ.がす ころ.ぶ まろ.ぶ うたた うつ.る
-change turn revolve, around,
+change around, revolve, turn
 
 研
 ケン ト.
-study sharpen of, polish,
+polish, of, sharpen study
 
 足
 ソク タ.
 あし た.りる た.る
-sufficient, for of be counter foot, pairs leg, footwear
+leg, for counter foot, be pairs of footwear sufficient,
 
 究
 キュウ ク キワ.メ
-research, study
+study research,
 
 楽
 ガク ラク ゴウ コノ.
@@ -437,12 +437,12 @@ music, ease comfort,
 起
 キ
 お.きる お.こる お.こす おこ.す た.つ
-get up, wake rouse, up
+up, wake up get rouse,
 
 着
 チャク ジャク
 き.る -ぎ き.せる -き.せ つ.く つ.ける
-for of arrive, counter clothing don, wear, suits
+for clothing counter suits wear, arrive, don, of
 
 店
 テン
@@ -457,17 +457,17 @@ sick ill,
 質
 シツ シチ チ
 たち ただ.す もと わりふ
-substance, temperament matter, quality,
+matter, temperament quality, substance,
 
 待
 タイ -マ.
 ま.つ
-wait, depend on
+depend wait, on
 
 試
 シ
 こころ .みる ため.す
-test, try, attempt, ordeal experiment,
+try, test, attempt, ordeal experiment,
 
 族
 ゾ
@@ -485,17 +485,17 @@ fast early,
 映
 エイ -バ.
 うつ.る うつ.す は.える
-reflection, reflect, projection
+reflect, reflection, projection
 
 親
 シン シタ.シ
 おや おや- した.しい
-parent, familiarity, dealer intimacy, relative, (cards)
+familiarity, dealer (cards) intimacy, relative, parent,
 
 験
 ケン ゲン
 あかし しるし ため.す ためし
-effect, testing verification,
+effect, verification, testing
 
 英
 エイ ハナブ
@@ -504,17 +504,17 @@ England, English
 医
 イ
 い.やす い.する くすし
-doctor, medicine
+medicine doctor,
 
 仕
 シ ジ
 つか.える
-doing, serve attend, official,
+official, doing, attend, serve
 
 去
 キョ コ -サ.
 さ.る
-divorce leave, gone, quit, eliminate, past, elapse,
+quit, leave, elapse, gone, past, eliminate, divorce
 
 味
 ミ
@@ -524,17 +524,17 @@ flavor, taste
 写
 シャ ジャ
 うつ.す うつ.る うつ- うつ.し
-copy, photographed, be describe
+be describe copy, photographed,
 
 字
 ジ
 あざ あざな -な
-of character, letter, village section word,
+word, character, village section letter, of
 
 答
 トウ コタ.
 こた.える
-solution, answer
+answer solution,
 
 夜
 ヤ
@@ -544,17 +544,17 @@ evening night,
 音
 オン イン -ノン
 おと
-sound, noise
+noise sound,
 
 注
 チュウ
 そそ.ぐ さ.す つ.ぐ
-shed comment, irrigate, pour, on, flow into, (tears), notes, annotate concentrate
+into, concentrate irrigate, flow notes, comment, pour, on, (tears), annotate shed
 
 帰
 キ
 かえ.る かえ.す おく.る とつ.ぐ
-at, homecoming, arrive in lead result to,
+arrive at, result homecoming, in lead to,
 
 古
 コ -フル.
@@ -574,12 +574,12 @@ buy
 悪
 アク オ
 わる.い わる- あ.し にく.い -にく.い ああ いずくに いずくんぞ にく.む
-vice, bad, rascal, evil, false, wrong
+bad, vice, wrong evil, rascal, false,
 
 図
 ズ ト ハカ.
 え
-accidentally map, drawing, unexpected, plan,
+drawing, unexpected, map, plan, accidentally
 
 週
 シュウ
@@ -588,17 +588,17 @@ week
 室
 シツ
 むろ
-room, greenhouse, chamber, cellar apartment,
+chamber, apartment, greenhouse, room, cellar
 
 歩
 ホ ブ フ アユ.
 ある.く
-steps walk, for counter
+for walk, counter steps
 
 風
 フウ フ -カ
 かぜ かざ-
-style, manner wind, air,
+manner wind, air, style,
 
 紙
 シ
@@ -616,7 +616,7 @@ flower
 
 春
 シュン ハ
-springtime, (season) spring
+(season) spring springtime,
 
 赤
 セキ シャク アカ.ラメ
@@ -626,16 +626,16 @@ red
 青
 セイ ショウ アオ.
 あお あお-
-blue, green
+green blue,
 
 館
 カン タ
 やかた
-palace building, mansion, large
+large building, palace mansion,
 
 屋
 オク
-house, seller shop, dealer, roof,
+dealer, roof, seller house, shop,
 
 色
 ショク シキ イ
@@ -666,16 +666,16 @@ station
 
 洋
 ヨ
-western style ocean,
+ocean, western style
 
 旅
 リョ
 たび
-trip, travel
+travel trip,
 
 服
 フ
-clothing, admit, obey, discharge
+clothing, obey, discharge admit,
 
 夕
 セキ ユ
@@ -684,7 +684,7 @@ evening
 借
 シャク
 か.りる
-rent borrow,
+borrow, rent
 
 曜
 ヨ
@@ -693,7 +693,7 @@ weekday
 飲
 イン オン
 の.む -の.み
-drink, smoke, take
+take drink, smoke,
 
 肉
 ニク
@@ -706,7 +706,7 @@ lend
 
 堂
 ドウ
-chamber, hall public
+hall chamber, public
 
 鳥
 チョウ ト
@@ -714,7 +714,7 @@ chicken bird,
 
 飯
 ハン メ
-meal, rice boiled
+boiled meal, rice
 
 勉
 ベン ツト.メ
@@ -736,7 +736,7 @@ tea
 
 弟
 テイ ダイ デ オトウ
-faithful elders service younger to brother,
+elders faithful to brother, younger service
 
 牛
 ギュウ ウ
@@ -749,7 +749,7 @@ fish
 
 兄
 ケイ キョウ ア
-brother, big elder brother
+big brother, brother elder
 
 犬
 ケン
@@ -758,10 +758,10 @@ dog
 
 妹
 マイ イモウ
-sister younger
+younger sister
 
 姉
 シ
 あね はは
-sister elder
+elder sister
 

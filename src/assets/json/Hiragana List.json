@@ -18,7 +18,7 @@
     { "kana": "た", "english": "ta" },
     { "kana": "ち", "english": "chi" },
     { "kana": "つ", "english": "tsu" },
-    { "kana": "れ", "english": "te" },
+    { "kana": "て", "english": "te" },
     { "kana": "と", "english": "to" },
     { "kana": "な", "english": "na" },
     { "kana": "に", "english": "ni" },
@@ -29,7 +29,7 @@
   [
     { "kana": "は", "english": "ha" },
     { "kana": "ひ", "english": "hi" },
-    { "kana": "ふ", "english": "fu/hu" },
+    { "kana": "ふ", "english": "fu" },
     { "kana": "へ", "english": "he" },
     { "kana": "ほ", "english": "ho" },
     { "kana": "ま", "english": "ma" },
