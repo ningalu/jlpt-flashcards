@@ -1,6 +1,8 @@
 import os
 import re
 import json
+import gzip
+import base64
 
 from util import get_script_dir
 
@@ -108,9 +110,17 @@ def format_vocab():
                     formatted.write("\n".join(list(s.values())))
                     formatted.write("\n\n")
 
+            json_str = json.dumps(
+                intravocab_split, ensure_ascii=False)
+
             with open(get_script_dir() + "/json/" + out_name + ".json", "w", encoding="utf-8") as json_out:
-                json_out.write(json.dumps(
-                    intravocab_split, ensure_ascii=False))
+                json_out.write(json_str)
+
+            with open(get_script_dir() + "/zip/" + out_name + ".zip", "wb") as zip_out:
+                zip_out.write(base64.b64encode("{ \"d\": \"".encode("utf-8")))
+                zip_out.write(base64.b64encode(
+                    gzip.compress(json_str.encode("utf-8"))))
+                zip_out.write(base64.b64encode("\"}".encode("utf-8")))
 
 
 def format_kanji():
@@ -163,14 +173,26 @@ def format_kanji():
             filename = ".".join(f.split("/")[-1].split(".")[0:-1])
             out_name = filename.replace("_Raw", "_Formatted")
 
+            json_str = json.dumps(intrakanji_split, ensure_ascii=False)
+
             with open(get_script_dir() + "/formatted/" + out_name + ".txt", "w", encoding="utf-8") as formatted:
                 for s in intrakanji_split:
                     formatted.write("\n".join(list(s.values())))
                     formatted.write("\n\n")
 
             with open(get_script_dir() + "/json/" + out_name + ".json", "w", encoding="utf-8") as json_out:
-                json_out.write(json.dumps(
-                    intrakanji_split, ensure_ascii=False))
+                json_out.write(json_str)
+
+            with open(get_script_dir() + "/zip/" + out_name + ".zip", "w") as zip_out:
+                zip_out.write("{ \"d\": \"")
+                zip_out.write(gzip.compress(
+                    json_str.encode("utf-8")).decode("utf-8"))
+                zip_out.write("\"}")
+                # zip_out.write(base64.b64encode("{ \"d\": \"".encode("utf-8") + base64.b64encode(gzip.compress(
+                #     json_str.encode("utf-8"))) + base64.b64encode("\"}".encode("utf-8"))))
+                # zip_out.write(base64.b64encode(
+                #     gzip.compress(json_str.encode("utf-8"))))
+                # zip_out.write(base64.b64encode("\"}".encode("utf-8")))
 
 
 def format_text():

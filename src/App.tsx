@@ -16,7 +16,7 @@ const modalStyle = {
   content: {
     right: "auto",
     margin: "auto",
-    position: "absolute",
+    // position: "absolute",
     left: "50%",
     transform: "translate(-50%)",
   },
@@ -38,7 +38,6 @@ function App() {
 
   const [cardSelect, setCardSelect] = useState(false);
   const [chooseCategory, setChooseCategory] = useState(Category.Kana);
-  console.log("Remaining: ", remaining);
   return (
     <div className="h-screen bg-gray-100">
       <div className="w-full bg-white border-b-2 h-14 flex justify-between">
@@ -48,7 +47,7 @@ function App() {
             onClick={() => {
               setCardSelect(true);
             }}
-            className="ml-4 p-2 bg-gray-200 border-gray-300 border-2 rounded-md inline self-center"
+            className="ml-4 p-2 bg-gray-200 border-gray-300 border-2 rounded-md inline self-center overflow-hidden"
           >
             Change Cards
           </button>
@@ -72,6 +71,8 @@ function App() {
                   ? groupsContent
                   : Levels.get(Category.Kana)!.get(Level.Hiragana)![0]
               );
+              setIncorrect(0);
+              setComplete([]);
             }}
             style={modalStyle}
             ariaHideApp={false}
@@ -132,11 +133,13 @@ function App() {
           </Modal>
         </div>
         <div className="mr-8 flex">
-          <span className="self-center mr-8">
+          <span className="self-center w-32 mr-8">
             Remaining: {remaining.length}
           </span>
-          <span className="self-center mr-8">Incorrect: {incorrect}</span>
-          <span className="self-center mr-8">Complete: {complete.length}</span>
+          <span className="self-center w-28 mr-8">Incorrect: {incorrect}</span>
+          <span className="self-center w-28 mr-8">
+            Complete: {complete.length}
+          </span>
         </div>
       </div>
       <Flashcards

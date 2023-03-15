@@ -10,10 +10,12 @@ import VocabN2Json from "./assets/json/VocabList_N2_Formatted.json";
 import VocabN3Json from "./assets/json/VocabList_N3_Formatted.json";
 import VocabN4Json from "./assets/json/VocabList_N4_Formatted.json";
 import VocabN5Json from "./assets/json/VocabList_N5_Formatted.json";
+
 import { evenPartition } from "./util";
 import { CardData } from "./CardData";
 import { Level } from "./Level";
 import { Category } from "./Category";
+import { KanjiData } from "./KanjiData";
 
 const HiraganaGroups = HiraganaJson as Array<Array<CardData>>;
 const KatakanaGroups = KatakanaJson as Array<Array<CardData>>;
@@ -60,7 +62,7 @@ export const KanjiLevels = new Map([
   [
     Level.N1,
     evenPartition(
-      KanjiN1Json as Array<CardData>,
+      (KanjiN1Json as Array<KanjiData>).map(({kanji, onyomi, kunyomi, english}) => {return {kanji: kanji, kana: `onyomi: ${onyomi}\nkunyomi: ${kunyomi}`, english: english}}),
       Math.round(KanjiN1Json.length / 60)
     ),
   ],
