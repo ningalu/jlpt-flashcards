@@ -105,21 +105,21 @@ const Flashcards = ({
           </div>
           <div className="">
             {/* width is like 4 tailwind units larger because of the borders */}
-            <div className="grid grid-cols-3 h-96 ml-3">
+            <div className="grid grid-cols-3 h-[30rem] ml-3">
               {options.map((n, i) => {
                 return (
                   <span
                     key={i}
                     // there must be a better way to do this even without classnames lib
-                    className={`w-28 h-28 ${i % 3 === 2 ? "" : "mr-5"} ${
-                      i < 6 ? "mb-6" : ""
-                    } ${
+                    className={`w-[9rem] h-[9rem] p-2 ${
+                      i % 3 === 2 ? "" : "mr-6"
+                    } ${i < 6 ? "mb-6" : ""} ${
                       result !== undefined && compareShallow(n, remaining[0])
-                        ? "bg-green-200 border-green-300"
+                        ? "bg-green-200 inner-border-green-300"
                         : result === n
-                        ? "bg-red-200 border-red-300"
-                        : "bg-white border-gray-200"
-                    } border-2 flex items-center align-middle text-center tracking-tighter justify-center`}
+                        ? "bg-red-200 inner-border-red-300"
+                        : "bg-white inner-border-gray-200"
+                    } inner-border-4 flex items-center align-middle text-center tracking-tighter justify-center`}
                     onClick={() => {
                       setResult(n);
                     }}

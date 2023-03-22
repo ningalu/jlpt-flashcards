@@ -1,0 +1,2 @@
+- import kanjilist as base64 encoded gzip to decode at frontend
+- guess kanji or kana based on english word

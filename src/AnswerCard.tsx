@@ -8,26 +8,30 @@ export interface AnswerCardProps {
 const AnswerCard = ({ card, answered }: AnswerCardProps) => {
   return (
     <div
-      className={`w-96 h-96 mr-3 p-4 bg-white flex items-center justify-center border-gray-200 border-2`}
+      className={`w-[30rem] h-[30rem] mr-3 p-8 bg-white inner-border-4 inner-border-gray-200`}
     >
-      {!answered && <span className="text-8xl">{kanji(card)}</span>}
+      {!answered && (
+        <div className="flex h-full items-center justify-center">
+          <span className="text-8xl">{kanji(card)}</span>
+        </div>
+      )}
       {answered && (
-        <div className="flex flex-col p-4 ml-4 mt-4 w-full h-full">
+        <div className={`flex flex-col text-xl`}>
           {card.kanji !== undefined && (
-            <span className="text-8xl mb-8">{card.kanji}</span>
+            <span className="text-7xl mb-8">{card.kanji}</span>
           )}
-          <div className="mb-4 flex flex-col">
-            {card.onyomi !== undefined && (
-              <span className="">Onyomi: {card.onyomi.replace(" ", ", ")}</span>
-            )}
-            {card.kunyomi !== undefined && (
-              <span className="">
-                Kunyomi: {card.kunyomi.replace(" ", ", ")}
-              </span>
-            )}
-          </div>
+          {card.onyomi !== undefined && (
+            <span className="mb-4">
+              Onyomi: {card.onyomi.replace(" ", ", ")}
+            </span>
+          )}
+          {card.kunyomi !== undefined && (
+            <span className="mb-4">
+              Kunyomi: {card.kunyomi.replace(" ", ", ")}
+            </span>
+          )}
           {card.kana !== undefined && (
-            <span className="">Kana: {card.kana}</span>
+            <span className="mb-4">Kana: {card.kana}</span>
           )}
 
           <span>English: {card.english}</span>

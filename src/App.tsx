@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import { Category } from "./Category";
 import { Level } from "./Level";
-import { compareShallow } from "./util";
+import { compareShallow, shuffle } from "./util";
 
 import Modal from "react-modal";
 import { Group } from "./Group";
@@ -25,19 +25,20 @@ const modalStyle = {
 function App() {
   // this should be a Set but idk how to make it do value comparisons and not reference comparisons
   const [groups, setGroups] = useState<Array<Group>>([
-    { category: Category.Kana, level: Level.Hiragana, number: 0 },
+    { category: Category.Kanji, level: Level.N5, number: 0 },
   ]);
   const [currentList, setCurrentList] = useState<Array<CardData>>(
-    Levels.get(Category.Kana)!.get(Level.Hiragana)![0]
+    Levels.get(Category.Kanji)!.get(Level.N5)![0]
   );
   const [complete, setComplete] = useState<Array<CardData>>([]);
   const [incorrect, setIncorrect] = useState(0);
   const [remaining, setRemaining] = useState<Array<CardData>>(
-    Levels.get(Category.Kana)!.get(Level.Hiragana)![0]
+    Levels.get(Category.Kanji)!.get(Level.N5)![0]
   );
+  const [randomise, setRandomise] = useState(true);
 
   const [cardSelect, setCardSelect] = useState(false);
-  const [chooseCategory, setChooseCategory] = useState(Category.Kana);
+  const [chooseCategory, setChooseCategory] = useState(Category.Kanji);
   return (
     <div className="h-screen bg-gray-100">
       <div className="w-full bg-white border-b-2 h-14 flex justify-between">
@@ -61,15 +62,20 @@ function App() {
                   Levels.get(category)!.get(level)![number]
                 );
               });
+
+              groupsContent = randomise
+                ? shuffle(groupsContent)
+                : groupsContent;
+
               setRemaining(
                 groupsContent.length > 0
                   ? groupsContent
-                  : Levels.get(Category.Kana)!.get(Level.Hiragana)![0]
+                  : Levels.get(Category.Kanji)!.get(Level.N5)![0]
               );
               setCurrentList(
                 groupsContent.length > 0
                   ? groupsContent
-                  : Levels.get(Category.Kana)!.get(Level.Hiragana)![0]
+                  : Levels.get(Category.Kanji)!.get(Level.N5)![0]
               );
               setIncorrect(0);
               setComplete([]);
@@ -78,16 +84,28 @@ function App() {
             ariaHideApp={false}
           >
             <div className="mx-4 w-[48rem]">
-              <div className="flex">
-                <h1 className="self-center mr-4 pb-1">Choose Category</h1>
-                <button
-                  className="px-2 mr-2 my-4 w-20 bg-red-500 border-red-600 border-2 rounded-md inline self-center"
-                  onClick={() => {
-                    setGroups([]);
-                  }}
-                >
-                  Clear All
-                </button>
+              <div className="flex flex-col">
+                <div className="flex ">
+                  <span className="self-center mr-4 pb-1">Choose Category</span>
+                  <button
+                    className="px-2 mr-2 my-2 w-20 bg-red-500 border-red-600 border-2 rounded-md inline self-center"
+                    onClick={() => {
+                      setGroups([]);
+                    }}
+                  >
+                    Clear All
+                  </button>
+                </div>
+                <div className="flex items-center">
+                  <span className="mr-2">Randomise Order</span>
+                  <input
+                    type="checkbox"
+                    checked={randomise}
+                    onChange={(e) => {
+                      setRandomise(e.target.checked);
+                    }}
+                  />
+                </div>
               </div>
 
               <div className="flex">
