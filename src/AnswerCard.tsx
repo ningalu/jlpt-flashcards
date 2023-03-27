@@ -16,22 +16,26 @@ const AnswerCard = ({ card, answered }: AnswerCardProps) => {
         </div>
       )}
       {answered && (
-        <div className={`flex flex-col text-xl`}>
+        <div
+          className={`flex flex-col lg:text-xl lg:tracking-normal text-sm tracking-tight p-2`}
+        >
           {card.kanji !== undefined && (
-            <span className="text-7xl mb-8">{card.kanji}</span>
+            <span className="lg:text-7xl lg:mb-8 text-5xl mb-2">
+              {card.kanji}
+            </span>
           )}
           {card.onyomi !== undefined && (
-            <span className="mb-4">
+            <span className="lg:mb-4 mb-2">
               Onyomi: {card.onyomi.replace(" ", ", ")}
             </span>
           )}
           {card.kunyomi !== undefined && (
-            <span className="mb-4">
+            <span className="lg:mb-4 mb-2">
               Kunyomi: {card.kunyomi.replace(" ", ", ")}
             </span>
           )}
           {card.kana !== undefined && (
-            <span className="mb-4">Kana: {card.kana}</span>
+            <span className="lg:mb-4 mb-2">Kana: {card.kana}</span>
           )}
 
           <span>English: {card.english}</span>
