@@ -12,7 +12,7 @@ const AnswerCard = ({ card, answered }: AnswerCardProps) => {
     >
       {!answered && (
         <div className="flex h-full items-center justify-center">
-          <span className="text-8xl">{kanji(card)}</span>
+          <span className="lg:text-8xl text-6xl">{kanji(card)}</span>
         </div>
       )}
       {answered && (

@@ -39,6 +39,32 @@ function App() {
 
   const [cardSelect, setCardSelect] = useState(false);
   const [chooseCategory, setChooseCategory] = useState(Category.Kanji);
+
+  const closeModal = () => {
+    setCardSelect(false);
+    let groupsContent: Array<CardData> = [];
+    groups.forEach(({ category, level, number }) => {
+      groupsContent = groupsContent.concat(
+        Levels.get(category)!.get(level)![number]
+      );
+    });
+
+    groupsContent = randomise ? shuffle(groupsContent) : groupsContent;
+
+    setRemaining(
+      groupsContent.length > 0
+        ? groupsContent
+        : Levels.get(Category.Kanji)!.get(Level.N5)![0]
+    );
+    setCurrentList(
+      groupsContent.length > 0
+        ? groupsContent
+        : Levels.get(Category.Kanji)!.get(Level.N5)![0]
+    );
+    setIncorrect(0);
+    setComplete([]);
+  };
+
   return (
     <div className="h-screen w-screen bg-gray-100">
       <div className=" lg:bg-white bg-blue-200 border-b-2 h-14 flex justify-evenly">
@@ -54,46 +80,31 @@ function App() {
           </button>
           <Modal
             isOpen={cardSelect}
-            onRequestClose={() => {
-              setCardSelect(false);
-              let groupsContent: Array<CardData> = [];
-              groups.forEach(({ category, level, number }) => {
-                groupsContent = groupsContent.concat(
-                  Levels.get(category)!.get(level)![number]
-                );
-              });
-
-              groupsContent = randomise
-                ? shuffle(groupsContent)
-                : groupsContent;
-
-              setRemaining(
-                groupsContent.length > 0
-                  ? groupsContent
-                  : Levels.get(Category.Kanji)!.get(Level.N5)![0]
-              );
-              setCurrentList(
-                groupsContent.length > 0
-                  ? groupsContent
-                  : Levels.get(Category.Kanji)!.get(Level.N5)![0]
-              );
-              setIncorrect(0);
-              setComplete([]);
-            }}
+            onRequestClose={closeModal}
             style={modalStyle}
             ariaHideApp={false}
           >
             <div className="mx-4 lg:w-[48rem] lg:text-md text-xs items-center">
               <div className="flex flex-col">
-                <div className="flex ">
-                  <span className="self-center mr-4 pb-1">Choose Category</span>
+                <div className="flex justify-between">
+                  <div>
+                    <span className="self-center mr-4 pb-1">
+                      Choose Category
+                    </span>
+                    <button
+                      className="px-2 mr-2 my-2 w-20 bg-red-500 border-red-600 border-2 rounded-md inline self-center"
+                      onClick={() => {
+                        setGroups([]);
+                      }}
+                    >
+                      Clear All
+                    </button>
+                  </div>
                   <button
-                    className="px-2 mr-2 my-2 w-20 bg-red-500 border-red-600 border-2 rounded-md inline self-center"
-                    onClick={() => {
-                      setGroups([]);
-                    }}
+                    className="lg:text-2xl text-gray-400"
+                    onClick={closeModal}
                   >
-                    Clear All
+                    X
                   </button>
                 </div>
                 <div className="flex items-center">
