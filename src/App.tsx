@@ -40,15 +40,15 @@ function App() {
   const [cardSelect, setCardSelect] = useState(false);
   const [chooseCategory, setChooseCategory] = useState(Category.Kanji);
   return (
-    <div className="h-screen bg-gray-100">
-      <div className="w-full bg-white border-b-2 h-14 flex justify-between">
-        <div className="flex">
-          <span className="p-2 pr-0 pl-8 self-center">JLPT </span>
+    <div className="h-screen w-screen bg-gray-100">
+      <div className=" lg:bg-white bg-blue-200 border-b-2 h-14 flex justify-evenly">
+        <div className="flex lg:mr-4 text-xs lg:text-md tracking-tighter lg:tracking-normal">
+          <span className="lg:p-2 p-1 lg:pl-8 self-center ">JLPT</span>
           <button
             onClick={() => {
               setCardSelect(true);
             }}
-            className="ml-4 p-2 bg-gray-200 border-gray-300 border-2 rounded-md inline self-center overflow-hidden"
+            className="lg:mx-4 mx-1 lg:p-2 py-1 px-0.5 bg-gray-200 border-gray-300 border-2 rounded-md inline self-center overflow-hidden"
           >
             Change Cards
           </button>
@@ -83,7 +83,7 @@ function App() {
             style={modalStyle}
             ariaHideApp={false}
           >
-            <div className="mx-4 w-[48rem]">
+            <div className="mx-4 lg:w-[48rem] lg:text-md text-xs items-center">
               <div className="flex flex-col">
                 <div className="flex ">
                   <span className="self-center mr-4 pb-1">Choose Category</span>
@@ -113,7 +113,7 @@ function App() {
                   return (
                     <button
                       key={i}
-                      className="p-2 mr-2 my-4 w-20 bg-gray-200 border-gray-300 border-2 rounded-md inline self-center"
+                      className="lg:p-2 lg:mr-2 p-1 m-1 my-4 lg:w-20  bg-gray-200 border-gray-300 border-2 rounded-md inline self-center"
                       onClick={() => {
                         setChooseCategory(cat);
                       }}
@@ -150,12 +150,14 @@ function App() {
             </div>
           </Modal>
         </div>
-        <div className="mr-8 flex">
-          <span className="self-center w-32 mr-8">
+        <div className="lg:mr-8 lg:text-md text-xs lg:tracking-normal tracking-tighter flex">
+          <span className="self-center lg:mr-8 mr-1 bg-gray-200 lg:bg-white p-1 rounded-md border-gray-300 border-2 lg:border-0">
             Remaining: {remaining.length}
           </span>
-          <span className="self-center w-28 mr-8">Incorrect: {incorrect}</span>
-          <span className="self-center w-28 mr-8">
+          <span className="self-center lg:mr-8 mr-1 bg-green-200 lg:bg-white p-1 rounded-md border-green-300 border-2 lg:border-0">
+            Incorrect: {incorrect}
+          </span>
+          <span className="self-center lg:mr-8 mr-1 bg-red-200 lg:bg-white p-1 rounded-md border-red-300 border-2 lg:border-0">
             Complete: {complete.length}
           </span>
         </div>

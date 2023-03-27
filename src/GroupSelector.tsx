@@ -1,10 +1,11 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Category } from "./Category";
 import { Level } from "./Level";
 import { compareShallow } from "./util";
 import { KanaLevels } from "./StaticData";
 import { Group } from "./Group";
-
+import resolveConfig from "tailwindcss/resolveConfig";
+import { Config } from "tailwindcss/types/config";
 export interface GroupSelectorProps {
   category: Category;
   levels: typeof KanaLevels;
@@ -18,19 +19,32 @@ const GroupSelector = ({
   groups,
   setGroups,
 }: GroupSelectorProps) => {
+  const [width, setWidth] = useState(window.innerWidth);
+
+  useEffect(() => {
+    const resize = () => {
+      setWidth(window.innerWidth);
+    };
+    window.addEventListener("resize", resize);
+
+    return () => {
+      window.removeEventListener("resize", resize);
+    };
+  }, []);
   return (
-    <div className="grid">
+    <div className="grid lg:w-full w-60">
       <div className="text-gray-400">
-        <span className="w-24 inline-block">Group</span>
+        <span className="inline-block lg:w-24 w-10">Group</span>
         {[...levels.values()]
           .sort((a, b) => {
             return a.length < b.length ? 1 : a.length > b.length ? -1 : 0;
           })[0]
           .map((_, i) => {
             return (
-              i < 16 && (
-                <div key={i} className="inline-block w-8 m-1">
-                  <span className="table m-auto">{i + 1}</span>
+              i <
+                (width > parseInt(import.meta.env.VITE_LG_WIDTH) ? 16 : 8) && (
+                <div key={i} className="inline-block lg:w-8 w-4 h-4 m-1 pl-1">
+                  <span className="">{i + 1}</span>
                 </div>
               )
             );
@@ -39,14 +53,14 @@ const GroupSelector = ({
       {[...levels].map(([level, content], i) => {
         return (
           <div key={i} className="flex">
-            <span key={i} className="w-24 py-2">
+            <span key={i} className="lg:w-24 w-10 lg:py-2">
               {level}
             </span>
-            <div className="grid grid-flow-row grid-cols-16">
+            <div className="grid grid-flow-row lg:grid-cols-16 grid-cols-8">
               {content.map((value, i) => (
                 <input
                   type="checkbox"
-                  className="w-8 h-8 m-1"
+                  className="lg:w-8 lg:h-8 w-4 h-4 m-1"
                   key={`${level} ${i}`}
                   checked={groups.reduce(
                     (acc, curr) =>

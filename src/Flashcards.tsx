@@ -79,7 +79,7 @@ const Flashcards = ({
   return (
     <div className="flex flex-col justify-center select-none">
       <div className="flex justify-center">
-        <div className="mt-48 flex">
+        <div className="lg:mt-48 mt-12 flex">
           <div>
             <AnswerCard card={remaining[0]} answered={result !== undefined} />
             <div className="flex justify-end">
@@ -105,21 +105,21 @@ const Flashcards = ({
           </div>
           <div className="">
             {/* width is like 4 tailwind units larger because of the borders */}
-            <div className="grid grid-cols-3 h-[30rem] ml-3">
+            <div className="grid grid-cols-3 lg:h-[30rem] lg:ml-3 ml-0.5">
               {options.map((n, i) => {
                 return (
                   <span
                     key={i}
                     // there must be a better way to do this even without classnames lib
-                    className={`w-[9rem] h-[9rem] p-2 ${
-                      i % 3 === 2 ? "" : "mr-6"
-                    } ${i < 6 ? "mb-6" : ""} ${
+                    className={`lg:w-[9rem] lg:h-[9rem] w-[3.5rem] h-[3.5rem] lg:p-2 p-1 lg:text-base lg:tracking-normal text-xs ${
+                      i % 3 === 2 ? "" : "lg:mr-6 mr-1"
+                    } ${i < 6 ? "lg:mb-6 mb-1" : ""} ${
                       result !== undefined && compareShallow(n, remaining[0])
                         ? "bg-green-200 inner-border-green-300"
                         : result === n
                         ? "bg-red-200 inner-border-red-300"
                         : "bg-white inner-border-gray-200"
-                    } inner-border-4 flex items-center align-middle text-center tracking-tighter justify-center`}
+                    } lg:inner-border-4 inner-border-2 flex items-center align-middle text-center tracking-tighter justify-center overflow-y-clip `}
                     onClick={() => {
                       setResult(n);
                     }}

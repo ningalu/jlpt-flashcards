@@ -8,7 +8,7 @@ export interface AnswerCardProps {
 const AnswerCard = ({ card, answered }: AnswerCardProps) => {
   return (
     <div
-      className={`w-[30rem] h-[30rem] mr-3 p-8 bg-white inner-border-4 inner-border-gray-200`}
+      className={`lg:w-[30rem] lg:h-[30rem] w-[10rem] h-[11rem] lg:mr-3 mr-0.5 lg:p-8 bg-white lg:inner-border-4 inner-border-2 inner-border-gray-200`}
     >
       {!answered && (
         <div className="flex h-full items-center justify-center">
