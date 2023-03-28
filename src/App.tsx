@@ -67,8 +67,8 @@ function App() {
 
   return (
     <div className="h-screen w-screen bg-gray-100">
-      <div className=" lg:bg-white bg-blue-200 border-b-2 h-14 flex justify-evenly">
-        <div className="flex lg:mr-4 text-xs lg:text-md tracking-tighter lg:tracking-normal">
+      <div className=" lg:bg-white border-b-2 h-14 flex justify-evenly">
+        <div className="flex lg:mr-4 text-xs lg:text-base tracking-tighter lg:tracking-normal">
           <span className="lg:p-2 p-1 lg:pl-8 self-center ">JLPT</span>
           <button
             onClick={() => {
@@ -161,14 +161,14 @@ function App() {
             </div>
           </Modal>
         </div>
-        <div className="lg:mr-8 lg:text-md text-xs lg:tracking-normal tracking-tighter flex">
-          <span className="self-center lg:mr-8 mr-1 bg-gray-200 lg:bg-white p-1 rounded-md border-gray-300 border-2 lg:border-0">
+        <div className="lg:mr-8 lg:text-base text-xs lg:tracking-normal tracking-tighter flex">
+          <span className="self-center lg:mr-8 mr-1  lg:bg-white p-1  rounded-sm lg:border-0">
             Remaining: {remaining.length}
           </span>
-          <span className="self-center lg:mr-8 mr-1 bg-green-200 lg:bg-white p-1 rounded-md border-green-300 border-2 lg:border-0">
+          <span className="self-center lg:mr-8 mr-1  lg:bg-white p-1 rounded-sm lg:border-0">
             Incorrect: {incorrect}
           </span>
-          <span className="self-center lg:mr-8 mr-1 bg-red-200 lg:bg-white p-1 rounded-md border-red-300 border-2 lg:border-0">
+          <span className="self-center lg:mr-8 mr-1  lg:bg-white p-1 rounded-sm lg:border-0">
             Complete: {complete.length}
           </span>
         </div>

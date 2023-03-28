@@ -36,11 +36,16 @@ const Flashcards = ({
   }, [full]);
 
   useEffect(() => {
-    window.addEventListener("keydown", ({ key }) => {
+    const keydown = ({ key }: KeyboardEvent) => {
       if (key == " " || key == "Enter") {
         goNext();
       }
-    });
+    };
+    window.addEventListener("keydown", keydown);
+
+    return () => {
+      window.removeEventListener("keydown", keydown);
+    };
   }, [result, options, remaining, complete, incorrect]);
 
   const goNext = () => {
