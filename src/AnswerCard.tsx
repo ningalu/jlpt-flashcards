@@ -1,7 +1,7 @@
 import { CardData, kanji, kana } from "./CardData";
 
 export interface AnswerCardProps {
-  card: CardData;
+  card?: CardData;
   answered: boolean;
 }
 
@@ -10,12 +10,17 @@ const AnswerCard = ({ card, answered }: AnswerCardProps) => {
     <div
       className={`lg:w-[30rem] lg:h-[30rem] w-[10rem] h-[11rem] lg:mr-3 mr-0.5 lg:p-8 bg-white lg:inner-border-4 inner-border-2 inner-border-gray-200`}
     >
-      {!answered && (
+      {!card && (
+        <div className="flex h-full items-center justify-center">
+          <span className="lg:text-8xl text-2xl">Complete</span>
+        </div>
+      )}
+      {!answered && card && (
         <div className="flex h-full items-center justify-center">
           <span className="lg:text-8xl text-6xl">{kanji(card)}</span>
         </div>
       )}
-      {answered && (
+      {answered && card && (
         <div
           className={`flex flex-col lg:text-xl lg:tracking-normal text-sm tracking-tight p-2`}
         >
