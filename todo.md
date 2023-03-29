@@ -1,2 +1,4 @@
 - guess kanji or kana based on english word
 - definitely needs manual comb over of the flashcard data
+- entries split over 2 pages in the pdf break and result in things like 見　行
+- english values aren't ordered correctly (maybe split by comma? unsure if comma separation is consistent)
