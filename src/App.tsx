@@ -43,24 +43,20 @@ function App() {
   const closeModal = () => {
     setCardSelect(false);
     let groupsContent: Array<CardData> = [];
-    groups.forEach(({ category, level, number }) => {
-      groupsContent = groupsContent.concat(
-        Levels.get(category)!.get(level)![number]
-      );
-    });
-
+    if (groups.length > 0) {
+      groups.forEach(({ category, level, number }) => {
+        groupsContent = groupsContent.concat(
+          Levels.get(category)!.get(level)![number]
+        );
+      });
+    } else {
+      groupsContent = Levels.get(Category.Kanji)!.get(Level.N5)![0];
+      setGroups([{ category: Category.Kanji, level: Level.N5, number: 0 }]);
+    }
     groupsContent = randomise ? shuffle(groupsContent) : groupsContent;
 
-    setRemaining(
-      groupsContent.length > 0
-        ? groupsContent
-        : Levels.get(Category.Kanji)!.get(Level.N5)![0]
-    );
-    setCurrentList(
-      groupsContent.length > 0
-        ? groupsContent
-        : Levels.get(Category.Kanji)!.get(Level.N5)![0]
-    );
+    setRemaining(groupsContent);
+    setCurrentList(groupsContent);
     setIncorrect(0);
     setComplete([]);
   };
@@ -84,7 +80,7 @@ function App() {
             style={modalStyle}
             ariaHideApp={false}
           >
-            <div className="mx-4 lg:w-[48rem] lg:text-md text-xs items-center">
+            <div className="mx-4 lg:w-[48rem] lg:text-base text-xs items-center">
               <div className="flex flex-col">
                 <div className="flex justify-between">
                   <div>
