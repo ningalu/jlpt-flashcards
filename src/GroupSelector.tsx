@@ -44,7 +44,7 @@ const GroupSelector = ({
               i <
                 (width > parseInt(import.meta.env.VITE_LG_WIDTH) ? 16 : 8) && (
                 <div key={i} className="inline-block lg:w-8 w-4 h-4 m-1 pl-1">
-                  <span className="">{i + 1}</span>
+                  <span className="lg:table lg:m-auto">{i + 1}</span>
                 </div>
               )
             );
